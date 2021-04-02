@@ -1,0 +1,7 @@
+.git
+node_modules
+.env
+pushed.log
+ftp-files
+ftp-image-urls
+images.json
