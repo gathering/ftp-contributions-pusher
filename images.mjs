@@ -1,14 +1,12 @@
 export const images = [
   {
-    url:
-      "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Basement_Cosmoo_Bushhack.jpg",
+    url: "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Basement_Cosmoo_Bushhack.jpg",
     source: "https://ftp.gathering.org/TG/2000/Rendered",
     creator: "Bushhack",
     title: "Rendered Basement Cosmoo",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Deformation_Cripp_Cellfish.jpg",
+    url: "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Deformation_Cripp_Cellfish.jpg",
     source: "https://ftp.gathering.org/TG/2000/Rendered",
     creator: "Cellfish",
     title: "Rendered Deformation Cripp",
@@ -21,22 +19,19 @@ export const images = [
     title: "Rendered Dragonslayer",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_SoundSetup_JohnHEdvardsen.jpg",
+    url: "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_SoundSetup_JohnHEdvardsen.jpg",
     source: "https://ftp.gathering.org/TG/2000/Rendered",
     creator: "JohnHEdvardsen",
     title: "Rendered SoundSetup",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Subway_Maestro_Mobius.jpg",
+    url: "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Subway_Maestro_Mobius.jpg",
     source: "https://ftp.gathering.org/TG/2000/Rendered",
     creator: "Mobius",
     title: "Rendered Subway Maestro",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_TheBadger_Cherek_RLI.jpg",
+    url: "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_TheBadger_Cherek_RLI.jpg",
     source: "https://ftp.gathering.org/TG/2000/Rendered",
     creator: "RLI",
     title: "Rendered TheBadger Cherek",
@@ -49,8 +44,7 @@ export const images = [
     title: "Rendered TheGatheringFyllerDineTomrom",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Warehouse_MattiasEriksson.jpg",
+    url: "https://ftp.gathering.org/TG/2000/Rendered/TG00_Rendered_Warehouse_MattiasEriksson.jpg",
     source: "https://ftp.gathering.org/TG/2000/Rendered",
     creator: "MattiasEriksson",
     title: "Rendered Warehouse",
@@ -65,189 +59,165 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/asdf_-_stage_gathering.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Asdf",
     title: "Stage Gathering",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/bf2_-_troett_kar_med_sannsynlig_vond_nakke.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Bf2",
     title: "Troett Kar Med Sannsynlig Vond Nakke",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/binge_-_a_paradigm_of_its_own.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Binge",
     title: "A Paradigm Of Its Own",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/eladmir_-_det_skjer_hvert_aar.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Eladmir",
     title: "Det Skjer Hvert Aar",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/espen_iden_-_rot.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Espen Iden",
     title: "Rot",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/hemo_-_paaskegrill.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Hemo",
     title: "Paaskegrill",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/ignosaurus_-_7rym_og_smaarips.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Ignosaurus",
     title: "7rym Og Smaarips",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/ingvild_and_my_self_-_the_view.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Ingvild And My Self",
     title: "The View",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/japani_-_synchronized.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Japani",
     title: "Synchronized",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/killer_coding_ninja_monkeys_-_the_awakening_of_the_tg06_spirit.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Killer Coding Ninja Monkeys",
     title: "The Awakening Of The Tg06 Spirit",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/killer_coding_ninja_monkeys_-_thebananaphone.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Killer Coding Ninja Monkeys",
     title: "Thebananaphone",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/kleven_-_waking_up.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Kleven",
     title: "Waking Up",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/lan-live_at_-_daficka.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Lan-live At",
     title: "Daficka",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/lzy_cru_-_to_troette_typer.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Lzy Cru",
     title: "To Troette Typer",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/neon_-_untitled.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Neon",
     title: "Untitled",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/oeyvind_malin_-_5000_screens.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Oeyvind Malin",
     title: "5000 Screens",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/ofring_-_shocking_tg.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Ofring",
     title: "Shocking Tg",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/quarryman_of_ogdoad_-_kvasigaffing.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Quarryman Of Ogdoad",
     title: "Kvasigaffing",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/scampi__gorken_and_cazper_-_spontanbanan.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Scampi Gorken And Cazper",
     title: "Spontanbanan",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/thorleif_jacobsen_-_computers_n_stage_3.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Thorleif Jacobsen",
     title: "Computers N Stage 3",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/tomtom_-_sir_last-a-lot.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Tomtom",
     title: "Sir Last-a-lot",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering/xenox_-_a_gathering.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
+    source: "https://ftp.gathering.org/TG/2006/capture_the_spirit_of_the_gathering",
     creator: "Xenox",
     title: "A Gathering",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/amidelf_-_cosmic_revenge.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/amidelf_-_cosmic_revenge.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Amidelf",
     title: "Cosmic Revenge",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/dcc_-_frankenstein_meets_dcc.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/dcc_-_frankenstein_meets_dcc.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Dcc",
     title: "Frankenstein Meets Dcc",
@@ -260,15 +230,13 @@ export const images = [
     title: "Illusion Of Abstract Fantasy",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/joakim_groenli_-_gone_wrong.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/joakim_groenli_-_gone_wrong.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Joakim Groenli",
     title: "Gone Wrong",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/juksefantomet_-_skull.jpg",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/juksefantomet_-_skull.jpg",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Juksefantomet",
     title: "Skull",
@@ -281,22 +249,19 @@ export const images = [
     title: "One Eye",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/mads_aas_-_land_of_eagles.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/mads_aas_-_land_of_eagles.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Mads Aas",
     title: "Land Of Eagles",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/mulm_-_vi_vil_ha_loff.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/mulm_-_vi_vil_ha_loff.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Mulm",
     title: "Vi Vil Ha Loff",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/srx_-_binary_fission.jpg",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/srx_-_binary_fission.jpg",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Srx",
     title: "Binary Fission",
@@ -309,15 +274,13 @@ export const images = [
     title: "The Darkest Side Of Pluto",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/stophzki_-_beholder_of_color.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/stophzki_-_beholder_of_color.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Stophzki",
     title: "Beholder Of Color",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/thomas_a_doehlen_-_eyes_on_you.jpg",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/thomas_a_doehlen_-_eyes_on_you.jpg",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Thomas A Doehlen",
     title: "Eyes On You",
@@ -330,22 +293,19 @@ export const images = [
     title: "Vakreste Jenta I Verden",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/yan_yi_look_-_creeping_shadows.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/yan_yi_look_-_creeping_shadows.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Yan Yi Look",
     title: "Creeping Shadows",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/freestyle_graphics/z-orb_-_old_dude.png",
+    url: "https://ftp.gathering.org/TG/2006/freestyle_graphics/z-orb_-_old_dude.png",
     source: "https://ftp.gathering.org/TG/2006/freestyle_graphics",
     creator: "Z-orb",
     title: "Old Dude",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/anders_reistad_-_monk_med_hodepynt.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/anders_reistad_-_monk_med_hodepynt.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Anders Reistad",
     title: "Monk Med Hodepynt",
@@ -355,33 +315,28 @@ export const images = [
       "https://ftp.gathering.org/TG/2006/themed_graphics/fuglemat_of_kvasigen_-_the_god_of_balloon_manufacturing_and_herring_redistribution_in_east_timor.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Fuglemat Of Kvasigen",
-    title:
-      "The God Of Balloon Manufacturing And Herring Redistribution In East Timor",
+    title: "The God Of Balloon Manufacturing And Herring Redistribution In East Timor",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/jonnyree_-_forest_monk.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/jonnyree_-_forest_monk.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Jonnyree",
     title: "Forest Monk",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/kenneth_dennis_andersen_-_sunrise.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/kenneth_dennis_andersen_-_sunrise.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Kenneth Dennis Andersen",
     title: "Sunrise",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/martin_olsen_-_bill_and_jesus.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/martin_olsen_-_bill_and_jesus.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Martin Olsen",
     title: "Bill And Jesus",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/mulm_-_a_grave_misunderstanding.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/mulm_-_a_grave_misunderstanding.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Mulm",
     title: "A Grave Misunderstanding",
@@ -394,29 +349,25 @@ export const images = [
     title: "Still Santa",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/olav_-_horned_monk.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/olav_-_horned_monk.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Olav",
     title: "Horned Monk",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/stophzki_-_lightalert.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/stophzki_-_lightalert.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Stophzki",
     title: "Lightalert",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2006/themed_graphics/thelostcucumber_-_demonic_sunrise.png",
+    url: "https://ftp.gathering.org/TG/2006/themed_graphics/thelostcucumber_-_demonic_sunrise.png",
     source: "https://ftp.gathering.org/TG/2006/themed_graphics",
     creator: "Thelostcucumber",
     title: "Demonic Sunrise",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/behave_or_get_banned_-_defrag.jpg",
+    url: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/behave_or_get_banned_-_defrag.jpg",
     source: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering",
     creator: "Defrag",
     title: "Behave Or Get Banned",
@@ -450,8 +401,7 @@ export const images = [
     title: "Gathering Water 07",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/mamma_-_anders_kolstad.jpg",
+    url: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/mamma_-_anders_kolstad.jpg",
     source: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering",
     creator: "Anders Kolstad",
     title: "Mamma",
@@ -464,8 +414,7 @@ export const images = [
     title: "Please Gather",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/puzzle_solved_-_jostein_skaar.png",
+    url: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/puzzle_solved_-_jostein_skaar.png",
     source: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering",
     creator: "Jostein Skaar",
     title: "Puzzle Solved",
@@ -478,8 +427,7 @@ export const images = [
     title: "Sceneshow Og Lokal Tg Tid",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/sleep_puzzled_-_dogagon.jpg",
+    url: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/sleep_puzzled_-_dogagon.jpg",
     source: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering",
     creator: "Dogagon",
     title: "Sleep Puzzled",
@@ -513,29 +461,25 @@ export const images = [
     title: "V 2 0",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/zzzz_-_stephan_og_mariann.png",
+    url: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering/zzzz_-_stephan_og_mariann.png",
     source: "https://ftp.gathering.org/TG/2007/SpiritOfTheGathering",
     creator: "Stephan Og Mariann",
     title: "Zzzz",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/abandoned_-_hans_petter_broz.png",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/abandoned_-_hans_petter_broz.png",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Hans Petter Broz",
     title: "Abandoned",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/abduction_-_bjornar_froyse.png",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/abduction_-_bjornar_froyse.png",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Bjornar Froyse",
     title: "Abduction",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/amazon_-_redpearl_of_boozing_kupoz.png",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/amazon_-_redpearl_of_boozing_kupoz.png",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Redpearl Of Boozing Kupoz",
     title: "Amazon",
@@ -559,36 +503,31 @@ export const images = [
     title: "Convergence",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/gaming_chick_-_julie_m_rosok.png",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/gaming_chick_-_julie_m_rosok.png",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Julie M Rosok",
     title: "Gaming Chick",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/just_google_it_-_mulm.jpg",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/just_google_it_-_mulm.jpg",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Mulm",
     title: "Just Google It",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/nokken_-_bjorn_henrik_nilsen.png",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/nokken_-_bjorn_henrik_nilsen.png",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Bjorn Henrik Nilsen",
     title: "Nokken",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/queen_of_leet_-_kim_ruben.png",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/queen_of_leet_-_kim_ruben.png",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Kim Ruben",
     title: "Queen Of Leet",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/freestyle/the_queen_-_Oyvind_Berget.png",
+    url: "https://ftp.gathering.org/TG/2007/freestyle/the_queen_-_Oyvind_Berget.png",
     source: "https://ftp.gathering.org/TG/2007/freestyle",
     creator: "Oyvind Berget",
     title: "The Queen",
@@ -600,36 +539,31 @@ export const images = [
     title: "Lord Of Life",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/themed/cyberspring_-_julie_m_rosok.png",
+    url: "https://ftp.gathering.org/TG/2007/themed/cyberspring_-_julie_m_rosok.png",
     source: "https://ftp.gathering.org/TG/2007/themed",
     creator: "Julie M Rosok",
     title: "Cyberspring",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/themed/leaf_is_not_amused_-_marilla.png",
+    url: "https://ftp.gathering.org/TG/2007/themed/leaf_is_not_amused_-_marilla.png",
     source: "https://ftp.gathering.org/TG/2007/themed",
     creator: "Marilla",
     title: "Leaf Is Not Amused",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/themed/spring_break_-_nicolai_r_tellefsen.png",
+    url: "https://ftp.gathering.org/TG/2007/themed/spring_break_-_nicolai_r_tellefsen.png",
     source: "https://ftp.gathering.org/TG/2007/themed",
     creator: "Nicolai R Tellefsen",
     title: "Spring Break",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/themed/strange_fruit_-_offwhite.jpg",
+    url: "https://ftp.gathering.org/TG/2007/themed/strange_fruit_-_offwhite.jpg",
     source: "https://ftp.gathering.org/TG/2007/themed",
     creator: "Offwhite",
     title: "Strange Fruit",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2007/themed/the_rose_-_oyvind_berget.png",
+    url: "https://ftp.gathering.org/TG/2007/themed/the_rose_-_oyvind_berget.png",
     source: "https://ftp.gathering.org/TG/2007/themed",
     creator: "Oyvind Berget",
     title: "The Rose",
@@ -649,29 +583,25 @@ export const images = [
     title: "Last Stand",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2008/FreestyleGraphics/My_Creatures_of_Light_-_Zeila.png",
+    url: "https://ftp.gathering.org/TG/2008/FreestyleGraphics/My_Creatures_of_Light_-_Zeila.png",
     source: "https://ftp.gathering.org/TG/2008/FreestyleGraphics",
     creator: "Zeila",
     title: "My Creatures Of Light",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2008/FreestyleGraphics/Pony-stole-my-panties_-_marilla..png",
+    url: "https://ftp.gathering.org/TG/2008/FreestyleGraphics/Pony-stole-my-panties_-_marilla..png",
     source: "https://ftp.gathering.org/TG/2008/FreestyleGraphics",
     creator: "Marilla.",
     title: "Pony-stole-my-panties",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2008/FreestyleGraphics/Wanna_race_me_offwhite%20signed.png",
+    url: "https://ftp.gathering.org/TG/2008/FreestyleGraphics/Wanna_race_me_offwhite%20signed.png",
     source: "https://ftp.gathering.org/TG/2008/FreestyleGraphics",
     creator: "offwhite signed",
     title: "race me",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2008/SpiritOfTheGathering/Campfire_by_kVaKK_Akk.jpg",
+    url: "https://ftp.gathering.org/TG/2008/SpiritOfTheGathering/Campfire_by_kVaKK_Akk.jpg",
     source: "https://ftp.gathering.org/TG/2008/SpiritOfTheGathering",
     creator: "kVaKK Akk",
     title: "Campfire",
@@ -712,22 +642,19 @@ export const images = [
     title: "The Real Arne",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2008/ThemedGraphics/My_Two_Personalities_-_Eruanna.png",
+    url: "https://ftp.gathering.org/TG/2008/ThemedGraphics/My_Two_Personalities_-_Eruanna.png",
     source: "https://ftp.gathering.org/TG/2008/ThemedGraphics",
     creator: "Eruanna",
     title: "My Two Personalities",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2008/ThemedGraphics/Transform_the_Earth_-_Zeila.png",
+    url: "https://ftp.gathering.org/TG/2008/ThemedGraphics/Transform_the_Earth_-_Zeila.png",
     source: "https://ftp.gathering.org/TG/2008/ThemedGraphics",
     creator: "Zeila",
     title: "Transform The Earth",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2008/ThemedGraphics/decadence_with_logo.png",
+    url: "https://ftp.gathering.org/TG/2008/ThemedGraphics/decadence_with_logo.png",
     source: "https://ftp.gathering.org/TG/2008/ThemedGraphics",
     creator: "logo",
     title: "with",
@@ -754,15 +681,13 @@ export const images = [
     title: "Big Daddy Is Watching You",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/FreestyleGraphics/05.%20Protectors-by%20javi.png",
+    url: "https://ftp.gathering.org/TG/2009/FreestyleGraphics/05.%20Protectors-by%20javi.png",
     source: "https://ftp.gathering.org/TG/2009/FreestyleGraphics",
     creator: "javi",
     title: "Protectors",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/FreestyleGraphics/06.%20Freestyle%20by%20itsu.jpg",
+    url: "https://ftp.gathering.org/TG/2009/FreestyleGraphics/06.%20Freestyle%20by%20itsu.jpg",
     source: "https://ftp.gathering.org/TG/2009/FreestyleGraphics",
     creator: "itsu",
     title: "Freestyle",
@@ -782,8 +707,7 @@ export const images = [
     title: "Fire And Ice",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/FreestyleGraphics/09.%20blodsprengt-by-propellen.png",
+    url: "https://ftp.gathering.org/TG/2009/FreestyleGraphics/09.%20blodsprengt-by-propellen.png",
     source: "https://ftp.gathering.org/TG/2009/FreestyleGraphics",
     creator: "propellen",
     title: "Blodsprengt",
@@ -831,15 +755,13 @@ export const images = [
     title: "BURN!",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/FreestyleGraphics/16.%20spaceInvaders%20by%20ernie.png",
+    url: "https://ftp.gathering.org/TG/2009/FreestyleGraphics/16.%20spaceInvaders%20by%20ernie.png",
     source: "https://ftp.gathering.org/TG/2009/FreestyleGraphics",
     creator: "ernie",
     title: "SpaceInvaders",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/FreestyleGraphics/17.%20moonlight-by%20phae.png",
+    url: "https://ftp.gathering.org/TG/2009/FreestyleGraphics/17.%20moonlight-by%20phae.png",
     source: "https://ftp.gathering.org/TG/2009/FreestyleGraphics",
     creator: "phae",
     title: "Moonlight",
@@ -852,8 +774,7 @@ export const images = [
     title: "Real Virtuality",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/FreestyleGraphics/19.%20niji-hime-%20by-zeila.png",
+    url: "https://ftp.gathering.org/TG/2009/FreestyleGraphics/19.%20niji-hime-%20by-zeila.png",
     source: "https://ftp.gathering.org/TG/2009/FreestyleGraphics",
     creator: "zeila",
     title: "Niji Hime",
@@ -873,15 +794,13 @@ export const images = [
     title: "Cute Evilness",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/02.%20Slickness_by_Eirik_yeah.jpg",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/02.%20Slickness_by_Eirik_yeah.jpg",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "Eirik yeah",
     title: "Slickness",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/04.%20Scruffy_Miss_by_Tagi.png",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/04.%20Scruffy_Miss_by_Tagi.png",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "Tagi",
     title: "Scruffy Miss",
@@ -894,43 +813,37 @@ export const images = [
     title: "Ultimate Nerdfest",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/11.%20mademoiselle%20by%20phae.jpg",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/11.%20mademoiselle%20by%20phae.jpg",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "phae",
     title: "Mademoiselle",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/12.%20CROWONTREE%20by%20crash.png",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/12.%20CROWONTREE%20by%20crash.png",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "crash",
     title: "CROWONTREE",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/15.%20sunrise%20by%20ernie.png",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/15.%20sunrise%20by%20ernie.png",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "ernie",
     title: "Sunrise",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/16.%20MRICECOOL%20by%20eha.jpg",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/16.%20MRICECOOL%20by%20eha.jpg",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "eha",
     title: "MRICECOOL",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/18.%20RoadSide_Picnic_by_CoW-.png",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/18.%20RoadSide_Picnic_by_CoW-.png",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "CoW ",
     title: "RoadSide Picnic",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/19.%20Twi_Lek_by_Nora_Marie_Ask.jpg",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/19.%20Twi_Lek_by_Nora_Marie_Ask.jpg",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "Nora Marie Ask",
     title: "Twi Lek",
@@ -949,8 +862,7 @@ export const images = [
     title: "Bris",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/MSPaint/23.%20ice_ice_dragon%20by%20zeila.png",
+    url: "https://ftp.gathering.org/TG/2009/MSPaint/23.%20ice_ice_dragon%20by%20zeila.png",
     source: "https://ftp.gathering.org/TG/2009/MSPaint",
     creator: "zeila",
     title: "Ice Ice Dragon",
@@ -963,22 +875,19 @@ export const images = [
     title: "You Know You Re Addicted When",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/Photo/Dragon_Breath_by_Nolofinwe.png",
+    url: "https://ftp.gathering.org/TG/2009/Photo/Dragon_Breath_by_Nolofinwe.png",
     source: "https://ftp.gathering.org/TG/2009/Photo",
     creator: "Nolofinwe",
     title: "Dragon Breath",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/Photo/Flames%20is%20hot%20hot%20hot_by_Lionessy.png",
+    url: "https://ftp.gathering.org/TG/2009/Photo/Flames%20is%20hot%20hot%20hot_by_Lionessy.png",
     source: "https://ftp.gathering.org/TG/2009/Photo",
     creator: "Lionessy",
     title: "Flames Is Hot Hot Hot",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/Photo/Hamar_jernbanen_by_Arnerdo.jpg",
+    url: "https://ftp.gathering.org/TG/2009/Photo/Hamar_jernbanen_by_Arnerdo.jpg",
     source: "https://ftp.gathering.org/TG/2009/Photo",
     creator: "Arnerdo",
     title: "Hamar Jernbanen",
@@ -987,8 +896,7 @@ export const images = [
     url:
       "https://ftp.gathering.org/TG/2009/Photo/Kigurumi_by_Kristoffer_K__Bamrud__Kristina_M__K__Bamrud__Vilde_Monclair__Heidi_Bang.jpg",
     source: "https://ftp.gathering.org/TG/2009/Photo",
-    creator:
-      "Kristoffer K  Bamrud  Kristina M  K  Bamrud  Vilde Monclair  Heidi Bang",
+    creator: "Kristoffer K  Bamrud  Kristina M  K  Bamrud  Vilde Monclair  Heidi Bang",
     title: "Kigurumi",
   },
   {
@@ -998,22 +906,19 @@ export const images = [
     title: "Ladybug",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/Photo/The_Future_of_Nature_by_Svenn-Petter_M_hle.jpg",
+    url: "https://ftp.gathering.org/TG/2009/Photo/The_Future_of_Nature_by_Svenn-Petter_M_hle.jpg",
     source: "https://ftp.gathering.org/TG/2009/Photo",
     creator: "Svenn Petter M hle",
     title: "The Future Of Nature",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/Photo/TrainStation_by_Håvard_Stene_Skjærvik.png",
+    url: "https://ftp.gathering.org/TG/2009/Photo/TrainStation_by_Håvard_Stene_Skjærvik.png",
     source: "https://ftp.gathering.org/TG/2009/Photo",
     creator: "Håvard Stene Skjærvik",
     title: "TrainStation",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/Photo/Twin_Trees_by_Hans_Christian_K_sen.jpg",
+    url: "https://ftp.gathering.org/TG/2009/Photo/Twin_Trees_by_Hans_Christian_K_sen.jpg",
     source: "https://ftp.gathering.org/TG/2009/Photo",
     creator: "Hans Christian K sen",
     title: "Twin Trees",
@@ -1043,8 +948,7 @@ export const images = [
     title: "Icelake",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/Photo/monkey_on_deep_water_by_kristian_myhre.png",
+    url: "https://ftp.gathering.org/TG/2009/Photo/monkey_on_deep_water_by_kristian_myhre.png",
     source: "https://ftp.gathering.org/TG/2009/Photo",
     creator: "kristian myhre",
     title: "Monkey On Deep Water",
@@ -1063,29 +967,25 @@ export const images = [
     title: "Tg09 Tgd Bold Eagle",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-Beate_Hay_Sandmo.png",
+    url: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-Beate_Hay_Sandmo.png",
     source: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign",
     creator: "Beate Hay Sandmo",
     title: "Tg09 Tgd",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-Svenn-Petter_M.jpg",
+    url: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-Svenn-Petter_M.jpg",
     source: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign",
     creator: "Svenn Petter M",
     title: "Tg09 Tgd",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-ernie.png",
+    url: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-ernie.png",
     source: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign",
     creator: "ernie",
     title: "Tg09 Tgd",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-marilla.png",
+    url: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign/tg09-tgd-by-marilla.png",
     source: "https://ftp.gathering.org/TG/2009/ThemedGraphicalDesign",
     creator: "marilla",
     title: "Tg09 Tgd",
@@ -1140,8 +1040,7 @@ export const images = [
     title: "Tetris Meets Invaders",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/FreestyleGFX/08-venus_by-mira.png",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/FreestyleGFX/08-venus_by-mira.png",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/FreestyleGFX",
     creator: "mira",
     title: "Venus",
@@ -1308,15 +1207,13 @@ export const images = [
     title: "Underwater Encounter",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/09-new_super_mario-by_nirex.jpg",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/09-new_super_mario-by_nirex.jpg",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint",
     creator: "nirex",
     title: "New Super Mario",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/11-Ascension_by_CoW_1.x1.png",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/11-Ascension_by_CoW_1.x1.png",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint",
     creator: "CoW 1.x1",
     title: "Ascension",
@@ -1336,8 +1233,7 @@ export const images = [
     title: "Panda Pirate&Ninja",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/15-neko_pinup_by_offwhite.png",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/15-neko_pinup_by_offwhite.png",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint",
     creator: "offwhite",
     title: "Neko Pinup",
@@ -1357,8 +1253,7 @@ export const images = [
     title: "WildChild",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/19-O_hai_thar_by_Zeila.png",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint/19-O_hai_thar_by_Zeila.png",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/MSPaint",
     creator: "Zeila",
     title: "O Hai Thar",
@@ -1371,8 +1266,7 @@ export const images = [
     title: "Cold Waters",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/02-#nsbfail_by_quarryman.jpg",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/02-#nsbfail_by_quarryman.jpg",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo",
     creator: "quarryman",
     title: "#nsbfail",
@@ -1385,8 +1279,7 @@ export const images = [
     title: "I <3 Post Apocalypse",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/04-Freakar%20by%20kVaKKiAkk.jpg",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/04-Freakar%20by%20kVaKKiAkk.jpg",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo",
     creator: "kVaKKiAkk",
     title: "Freakar",
@@ -1420,8 +1313,7 @@ export const images = [
     title: "SubaruTower",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/10-Precalculated_by_Dozer.jpg",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/10-Precalculated_by_Dozer.jpg",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo",
     creator: "Dozer",
     title: "Precalculated",
@@ -1434,22 +1326,19 @@ export const images = [
     title: "Along The Lines",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/15-Gravity_Problems_by_wlkr.jpg",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/15-Gravity_Problems_by_wlkr.jpg",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo",
     creator: "wlkr",
     title: "Gravity Problems",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/16-real_time_by_menace.jpg",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/16-real_time_by_menace.jpg",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo",
     creator: "menace",
     title: "Real Time",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/17-melting%20away%20by%20phae.png",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo/17-melting%20away%20by%20phae.png",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/Photo",
     creator: "phae",
     title: "Melting Away",
@@ -1490,8 +1379,7 @@ export const images = [
     title: "Snailed",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/RenderedGFX/02-Sub-Merge_by_Shanana.png",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/RenderedGFX/02-Sub-Merge_by_Shanana.png",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/RenderedGFX",
     creator: "Shanana",
     title: "Sub Merge",
@@ -1560,8 +1448,7 @@ export const images = [
     title: "Pacman Fever",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2010/CreativeCompos/RenderedGFX/12-Ila_by_Ine-Louise.jpg",
+    url: "https://ftp.gathering.org/TG/2010/CreativeCompos/RenderedGFX/12-Ila_by_Ine-Louise.jpg",
     source: "https://ftp.gathering.org/TG/2010/CreativeCompos/RenderedGFX",
     creator: "Ine Louise",
     title: "Ila",
@@ -1653,96 +1540,84 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/001%20-%20ForestSpirit-RunaHaukland.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "RunaHaukland",
     title: "ForestSpirit",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/002%20-%20GiantHunting-MonsBjørge.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "MonsBjørge",
     title: "GiantHunting",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/004%20ragnarok-soba_violence.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Soba Violence",
     title: "Ragnarok",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/005%20-%20StraightJacket-Vinter.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Vinter",
     title: "StraightJacket",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/006%20-%20Cloudborne-Aniva.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Aniva",
     title: "Cloudborne",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/007%20-%20Cloudy%20-%20Maria%20Gulland.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Maria Gulland",
     title: "Cloudy",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/009%20-%20PartlyHostile-Equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Equiliari",
     title: "PartlyHostile",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/010%20-%20Finally_Home-Rohtie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Rohtie",
     title: "Finally Home",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/015%20-%20Morning%20Dew-Maylen%20Kors.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Maylen Kors",
     title: "Morning Dew",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/016%20-%20tooth_fairy-marilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Marilla",
     title: "Tooth Fairy",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/018%20-%20We_bring_the_Lightning_by_Zeila_signed.png",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "Zeila signed",
     title: "We Bring The Lightning",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics/021%20-%20BabeRunner-AnneMarteMarkussen.jpg.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/FreestyleGraphics",
     creator: "AnneMarteMarkussen.jpg",
     title: "BabeRunner",
   },
@@ -1785,8 +1660,7 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2011/CreativeCompos/Photo/folders/009/009-%20Under%20the%20Knife%20by%20Shiroz.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2011/CreativeCompos/Photo/folders/009",
+    source: "https://ftp.gathering.org/TG/2011/CreativeCompos/Photo/folders/009",
     creator: "Shiroz",
     title: "Under The Knife",
   },
@@ -1877,120 +1751,105 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/001%20-%20Summertime-KariHeleneBekkelund.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "KariHeleneBekkelund",
     title: "Summertime",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/004%20-%20the-end-is-just-the-beginning-by-tanjarenate-aka-xcrea.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "tanjarenate aka xcrea",
     title: "The End Is Just The Beginning",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/005%20-%20the_city-by-amaya.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "amaya",
     title: "The City",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/006%20-%20The_Creator-Runa_Haukland.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "Runa Haukland",
     title: "The Creator",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/007%20-%20Beast%20tagging-Ole%20Gunnar%20Stensrud.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "Ole Gunnar Stensrud",
     title: "Beast Tagging",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/008%20-%20smoke_break-marilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "Marilla",
     title: "Smoke Break",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/009%20-%20ready-MariaGulland.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "MariaGulland",
     title: "Ready",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/011%20-%20Stranded-by-equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "equiliari",
     title: "Stranded",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/012%20-Monkeybusiness-AdrianeVinter.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "AdrianeVinter",
     title: "Monkeybusiness",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/013%20-%20Planetary%20vacation%20-%20%20Aniva.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "Aniva",
     title: "Planetary Vacation",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/014%20-itstoolateforthem-hannawalleraasgaard.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "Hannawalleraasgaard",
     title: "Itstoolateforthem",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/015%20-%20quite-delicious-by-rohtie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "rohtie",
     title: "Quite Delicious",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/016%20-%20SwampAreaLowRes-by-steffen.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "steffen",
     title: "SwampAreaLowRes",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/018%20-%20destruction-by-wic.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "wic",
     title: "Destruction",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics/020%20-%20Hello%20Beastie-Anne%20Marte%20Markussen.png",
-    source:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2012/CreativeCompos/FreestyleGraphics",
     creator: "Anne Marte Markussen",
     title: "Hello Beastie",
   },
@@ -2149,8 +2008,7 @@ export const images = [
     title: "Skip",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2012/CreativeCompos/ThemedPhoto/02%20wild-crew_xenox.jpg",
+    url: "https://ftp.gathering.org/TG/2012/CreativeCompos/ThemedPhoto/02%20wild-crew_xenox.jpg",
     source: "https://ftp.gathering.org/TG/2012/CreativeCompos/ThemedPhoto",
     creator: "Crew Xenox",
     title: "Wild",
@@ -2317,8 +2175,7 @@ export const images = [
     title: "Winter Is Coming",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FastGraphics/16-revenge-by-joovie.jpg",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/FastGraphics/16-revenge-by-joovie.jpg",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FastGraphics",
     creator: "joovie",
     title: "Revenge",
@@ -2359,178 +2216,155 @@ export const images = [
     title: "Blending In",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/01-drage-by-sixje.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/01-drage-by-sixje.png",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "sixje",
     title: "Drage",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/03-rush-concept-by-christofer-roe-s-trang.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "christofer roe s trang",
     title: "Rush Concept",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/04-killer-bee-by-kari-helene.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "kari helene",
     title: "Killer Bee",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/05-spring-flow-by-ole-gunnar-stensrud.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "ole gunnar stensrud",
     title: "Spring Flow",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/06-underwater-by-tonje-clason.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "tonje clason",
     title: "Underwater",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/07-one-last-hope-by-mariel-simone-edlund.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "mariel simone edlund",
     title: "One Last Hope",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/08-we-grow-each-day-by-malin-imerslund.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "malin imerslund",
     title: "We Grow Each Day",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/09-innocence-by-samuel-mork-bednarz.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "samuel mork bednarz",
     title: "Innocence",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/10-ouroboroses_skull-by-martin-heggholmen.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "martin heggholmen",
     title: "Ouroboroses Skull",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/11-singularity-by-rohtie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "rohtie",
     title: "Singularity",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/12-steampunk-scorpion-chick-by-steffen-xikura-rye.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "steffen xikura rye",
     title: "Steampunk Scorpion Chick",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/13-something-something-vampire-by-knut-johannes-h-land.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "knut johannes h land",
     title: "Something Something Vampire",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/14-forest-demon-by-tobias-t-nnessen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "tobias t nnessen",
     title: "Forest Demon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/15-queen-of-ravens-by-marilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "marilla",
     title: "Queen Of Ravens",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/16-1775-days-later-by-maria-gulland.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "maria gulland",
     title: "1775 Days Later",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/17-summoned-by-joovie.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "joovie",
     title: "Summoned",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/18-world-of-tales-by-maylen-korstvedt.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "maylen korstvedt",
     title: "World Of Tales",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/19-idiosyncrasy-attained-by-equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "equiliari",
     title: "Idiosyncrasy Attained",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/20-tweet-of-the-century-by-tina-alfredsen.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "tina alfredsen",
     title: "Tweet Of The Century",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/21-the-insects-by-yngvar-asplund.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "yngvar asplund",
     title: "The Insects",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/22-infinite-improbability-by-offwhite.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "offwhite",
     title: "Infinite Improbability",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics/23-vengaence-by-anne-marte-markussen.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/FreestyleGraphics",
     creator: "anne marte markussen",
     title: "Vengaence",
   },
@@ -2549,8 +2383,7 @@ export const images = [
     title: "Hai Pub",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/03-slaugther-by-jinx.jpg",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/03-slaugther-by-jinx.jpg",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint",
     creator: "jinx",
     title: "Slaugther",
@@ -2577,8 +2410,7 @@ export const images = [
     title: "When Singularity Goes Wrong",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/07-reach-by-monica-rong.png",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/07-reach-by-monica-rong.png",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint",
     creator: "monica rong",
     title: "Reach",
@@ -2598,8 +2430,7 @@ export const images = [
     title: "It S Ok He S Got A Jag",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/10-self-study-by-rohtie.png",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/10-self-study-by-rohtie.png",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint",
     creator: "rohtie",
     title: "Self Study",
@@ -2612,15 +2443,13 @@ export const images = [
     title: "Finally Free",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/13-nymph-by-joovie.png",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/13-nymph-by-joovie.png",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint",
     creator: "joovie",
     title: "Nymph",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/14-adventure-by-offwhite.png",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint/14-adventure-by-offwhite.png",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/MSPaint",
     creator: "offwhite",
     title: "Adventure",
@@ -2668,8 +2497,7 @@ export const images = [
     title: "Guess Who S Back",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/06-salvation-by-r-vern.png",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/06-salvation-by-r-vern.png",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo",
     creator: "r vern",
     title: "Salvation",
@@ -2703,8 +2531,7 @@ export const images = [
     title: "Road Of Balance",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/11-morning-rain-by-rohtie.jpg",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/11-morning-rain-by-rohtie.jpg",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo",
     creator: "rohtie",
     title: "Morning Rain",
@@ -2717,8 +2544,7 @@ export const images = [
     title: "Stolt",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/13-thoughts-by-kim-kverneland.jpg",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/13-thoughts-by-kim-kverneland.jpg",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo",
     creator: "kim kverneland",
     title: "Thoughts",
@@ -2738,15 +2564,13 @@ export const images = [
     title: "Flying Miracle",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/17-naturens-sjel-by-malene-jn.png",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/17-naturens-sjel-by-malene-jn.png",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo",
     creator: "malene jn",
     title: "Naturens Sjel",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/18-i-see-you-by-sigurd-sveen.jpg",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/18-i-see-you-by-sigurd-sveen.jpg",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo",
     creator: "sigurd sveen",
     title: "I See You",
@@ -2759,8 +2583,7 @@ export const images = [
     title: "Mist",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/20-breaking-waves-by-miu.jpg",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/20-breaking-waves-by-miu.jpg",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo",
     creator: "miu",
     title: "Breaking Waves",
@@ -2780,8 +2603,7 @@ export const images = [
     title: "Abandoned Smiley",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/23-infinity-by-magnus-nyg-rd.png",
+    url: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo/23-infinity-by-magnus-nyg-rd.png",
     source: "https://ftp.gathering.org/TG/2013/CreativeCompos/Photo",
     creator: "magnus nyg rd",
     title: "Infinity",
@@ -2852,112 +2674,98 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/01-bird-lady-by-themartine.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "themartine",
     title: "Bird Lady",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/02-all-about-green-by-kari-helene.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "kari helene",
     title: "All About Green",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/03-violetta-by-adrian-bergstr-m-netlandet.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "adrian bergstr m netlandet",
     title: "Violetta",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/04-deadlines-by-knarf.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "knarf",
     title: "Deadlines",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/05-lady-and-the-bird-by-dag-gullik-gulliksen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "dag gullik gulliksen",
     title: "Lady And The Bird",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/06-swan-lake-by-strunt.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "strunt",
     title: "Swan Lake",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/07-guardians-of-the-fortress-by-marilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "marilla",
     title: "Guardians Of The Fortress",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/08-deerdust-by-marichris.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "marichris",
     title: "Deerdust",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/09-the-rage-of-a-thousand-buffaloes-by-rohtie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "rohtie",
     title: "The Rage Of A Thousand Buffaloes",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/10-puppetmaster-by-samuel-mork-bednarz.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "samuel mork bednarz",
     title: "Puppetmaster",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/11-flutter-by-joovie.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "joovie",
     title: "Flutter",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/12-dreamworld-by-susanne-nes-ellingsen.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "susanne nes ellingsen",
     title: "Dreamworld",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/13-flight-by-remi-jakobsen.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "remi jakobsen",
     title: "Flight",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation/14-dusk-by-griffsnuff-x-offwhite.png",
-    source:
-      "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2013/CreativeCompos/ThemedPhotoManipulation",
     creator: "griffsnuff x offwhite",
     title: "Dusk",
   },
@@ -3104,112 +2912,98 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/01-scrap-metal-by-carine-l.-johansen-crrine-.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "carine l. johansen crrine ",
     title: "Scrap Metal",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/02-fight-under-the-moonshine-by-trine-mikkelsen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "trine mikkelsen",
     title: "Fight Under The Moonshine",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/03-tempest-by-thor-merlin-lervik.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "thor merlin lervik",
     title: "Tempest",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/04-worst-detective-ever-by-ozan-dr-sdal.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "ozan dr sdal",
     title: "Worst Detective Ever",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/05-hold-tight-by-alida-st-rvik.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "alida st rvik",
     title: "Hold Tight",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/06-out-for-the-day-by-delia-tee.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "delia tee",
     title: "Out For The Day",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/07-evening-in-transylvania-by-mariel-simone-edlund.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "mariel simone edlund",
     title: "Evening In Transylvania",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/08-snow-warriors-by-kristoffer-s-rensen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "kristoffer s rensen",
     title: "Snow Warriors",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/09-important-delivery-by-ole-gunnar-stensrud.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "ole gunnar stensrud",
     title: "Important Delivery",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/10-the-summoning-by-susanne-ellingsen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "susanne ellingsen",
     title: "The Summoning",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/11-transylvania-2635-by-equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "equiliari",
     title: "Transylvania 2635",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/12-the-ruins-by-june-jenssen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "june jenssen",
     title: "The Ruins",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/13-tom-brooks-by-asbj-rn-nedrehagen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "asbj rn nedrehagen",
     title: "Tom Brooks",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics/14-mighty-sky-by-camilla-s.-b..png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/FreestyleGraphics",
     creator: "camilla s. b.",
     title: "Mighty Sky",
   },
@@ -3263,8 +3057,7 @@ export const images = [
     title: "Sempiternity",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/MSPaint/08-fall-by-tine-hauglund.png",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/MSPaint/08-fall-by-tine-hauglund.png",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/MSPaint",
     creator: "tine hauglund",
     title: "Fall",
@@ -3326,15 +3119,13 @@ export const images = [
     title: "Happy Happy Joy Joy At Pningsshowet",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/03-step-forward.-by-andy-.jpg",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/03-step-forward.-by-andy-.jpg",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo",
     creator: "andy ",
     title: "Step Forward.",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/04-harmony-by-camilla-thorsen.jpg",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/04-harmony-by-camilla-thorsen.jpg",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo",
     creator: "camilla thorsen",
     title: "Harmony",
@@ -3396,15 +3187,13 @@ export const images = [
     title: "Cold Toddler",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/14-blikk-by-edvin-wiggen-dahl.jpg",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/14-blikk-by-edvin-wiggen-dahl.jpg",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo",
     creator: "edvin wiggen dahl",
     title: "Blikk",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/15-look-by-sigurd-sveen.jpg",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/15-look-by-sigurd-sveen.jpg",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo",
     creator: "sigurd sveen",
     title: "Look",
@@ -3424,22 +3213,19 @@ export const images = [
     title: "Not All Those Who Wander",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/18-redomex-by-kitten.png",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/18-redomex-by-kitten.png",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo",
     creator: "kitten",
     title: "Redomex",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/19-aww-p-efnet-by-classic.jpg",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/19-aww-p-efnet-by-classic.jpg",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo",
     creator: "classic",
     title: "Aww P Efnet",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/20-kua-mi-by-heidi-troppen.jpg",
+    url: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo/20-kua-mi-by-heidi-troppen.jpg",
     source: "https://ftp.gathering.org/TG/2014/CreativeCompos/Photo",
     creator: "heidi troppen",
     title: "Kua Mi",
@@ -3566,184 +3352,161 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/01-chilling-on-da-street-with-my-homeboys-by-roger-saeed-abdul.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "roger saeed abdul",
     title: "Chilling On Da Street With My Homeboys",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/02-eastern-surprice-by-zargot.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "zargot",
     title: "Eastern Surprice",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/03-we-come-bearing-gifts-by-confide.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "confide",
     title: "We Come Bearing Gifts",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/04-buddhist-jebus-near-bridge-over-troubled-water-by-superted.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "superted",
     title: "Buddhist Jebus Near Bridge Over Troubled Water",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/05-not-so-ordinary-by-mariel-simone-edlund.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "mariel simone edlund",
     title: "Not So Ordinary",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/06-penguin-god-by-jonathan-aanesen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "jonathan aanesen",
     title: "Penguin God",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/07-three-monks-walking-on-a-wooden-bridge-beside-some-old-buildings-by-marius-alexandersen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "marius alexandersen",
     title: "Three Monks Walking On A Wooden Bridge Beside Some Old Buildings",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/08-the-offering-by-offwhite-darklite-boozoholics-rbbs.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "offwhite darklite boozoholics rbbs",
     title: "The Offering",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/09-man-vs.-owl-by-fredrik-strupe.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "fredrik strupe",
     title: "Man Vs. Owl",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/10-citadel-by-joovie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "joovie",
     title: "Citadel",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/11-mountain-journey-by-keith-mellingen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "keith mellingen",
     title: "Mountain Journey",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/12-super-mecha-owl-by-okb.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "okb",
     title: "Super Mecha Owl",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/13-2-by-markus-h.-hovd.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "markus h. hovd",
     title: "2",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/14-dystopia-by-jim-tommy-myhre-kjexrud.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "jim tommy myhre kjexrud",
     title: "Dystopia",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/15-owl-fishies-by-thor-merlin-lervik.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "thor merlin lervik",
     title: "Owl Fishies",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/16-you-never-touch-a-water-spirit-by-delia-tee.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "delia tee",
     title: "You Never Touch A Water Spirit",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/17-forgotten-by-susanne-ellingsen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "susanne ellingsen",
     title: "Forgotten",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/18-the-cloudmaker-by-tryll.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "tryll",
     title: "The Cloudmaker",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/19-march-of-the-monks-by-bjarte-nordhaug.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "bjarte nordhaug",
     title: "March Of The Monks",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/20-the-forgotten-city-by-kristoffer-s-rensen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "kristoffer s rensen",
     title: "The Forgotten City",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/21-bear-titan-by-equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "equiliari",
     title: "Bear Titan",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/22-tg14-theme-photo-manip.-compo-svudle-dudlideisen-2-by-svudle-dudlan.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "svudle dudlan",
     title: "Tg14 Theme Photo Manip. Compo Svudle Dudlideisen 2",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation/23-space-marine-owl-by-asbj-rn-nedrehagen.png",
-    source:
-      "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2014/CreativeCompos/ThemedPhotoManipulation",
     creator: "asbj rn nedrehagen",
     title: "Space Marine Owl",
   },
@@ -3762,15 +3525,13 @@ export const images = [
     title: "Big Dreams",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/electrifly_by_m.i.a.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/electrifly_by_m.i.a.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics",
     creator: "m.i.a",
     title: "Electrifly",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/floop_by_joovie.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/floop_by_joovie.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics",
     creator: "joovie",
     title: "Floop",
@@ -3797,8 +3558,7 @@ export const images = [
     title: "Hero H Report",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/hero_on_break_by_freya.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/hero_on_break_by_freya.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics",
     creator: "freya",
     title: "Hero On Break",
@@ -3825,8 +3585,7 @@ export const images = [
     title: "Hoverboard, Hologram And Heroes.",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/hovering_by_zemi.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/hovering_by_zemi.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics",
     creator: "zemi",
     title: "Hovering",
@@ -3860,8 +3619,7 @@ export const images = [
     title: "Long Island Blue Sea",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/on_approach_by_volant.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/on_approach_by_volant.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics",
     creator: "volant",
     title: "On Approach",
@@ -3874,8 +3632,7 @@ export const images = [
     title: "Rebel At The Museum",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/wavesome_by_camzilla.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics/wavesome_by_camzilla.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/FastGraphics",
     creator: "camzilla",
     title: "Wavesome",
@@ -3883,219 +3640,189 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/all_you_need_is_#d2d2d2_by_superted.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "superted",
     title: "All You Need Is #d2d2d2",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/average_looking_space_marines_by_ozandros.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "ozandros",
     title: "Average Looking Space Marines",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/damn_kids_and_their_interdimentional_rifts_by_equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "equiliari",
     title: "Damn Kids And Their Interdimentional Rifts",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/dandelion_fantasy_by_kariih.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "kariih",
     title: "Dandelion Fantasy",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/facing_the_future_by_bte94wolf.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "bte94wolf",
     title: "Facing The Future",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/finally_my_moment_to_shine_by_rine.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "rine",
     title: "Finally My Moment To Shine",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/forest_guardian_by_forceyfuntime.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "forceyfuntime",
     title: "Forest Guardian",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/gleaming_light_by_millis_rose.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "millis rose",
     title: "Gleaming Light",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/hamster_by_nasrasor.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "nasrasor",
     title: "Hamster",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/impossible_horizon_by_kl3vj3r.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "kl3vj3r",
     title: "Impossible Horizon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/isolation_by_zoylster.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "zoylster",
     title: "Isolation",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/little_intruder_by_delia_tee.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "delia tee",
     title: "Little Intruder",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/little_warrior_by_f4celess.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "f4celess",
     title: "Little Warrior",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/lurker_by_zemi.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/lurker_by_zemi.jpg",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "zemi",
     title: "Lurker",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/perby_magic_by_helibanan.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "helibanan",
     title: "Perby Magic",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/seasoned_mermaid_by_strandli.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "strandli",
     title: "Seasoned Mermaid",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/splash_by_urealistisk.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "urealistisk",
     title: "Splash",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/sweet_creams_by_camillasau.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "camillasau",
     title: "Sweet Creams",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/the_discovery_by_eirasenam.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "eirasenam",
     title: "The Discovery",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/underwater_tea_party_by_klarita.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "klarita",
     title: "Underwater Tea Party",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/valkyria_by_joovie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "joovie",
     title: "Valkyria",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/viking_by_abbie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/viking_by_abbie.jpg",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "abbie",
     title: "Viking",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/wehre_to_next_by_marilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "marilla",
     title: "Wehre To Next",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics/who_is_the_fox_now_by_tinish.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/HanddrawnGraphics",
     creator: "tinish",
     title: "Who Is The Fox Now",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/camping_by_solor.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/camping_by_solor.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "solor",
     title: "Camping",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/carrot_by_zemi.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/carrot_by_zemi.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "zemi",
     title: "Carrot",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/crazt_for_music_by_klarita.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/crazt_for_music_by_klarita.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "klarita",
     title: "Crazt For Music",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/dreamcatcher_by_rainsoda.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/dreamcatcher_by_rainsoda.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "rainsoda",
     title: "Dreamcatcher",
@@ -4108,8 +3835,7 @@ export const images = [
     title: "Fatal Chair Accident",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/god_natt_by_helibanan.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/god_natt_by_helibanan.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "helibanan",
     title: "God Natt",
@@ -4122,8 +3848,7 @@ export const images = [
     title: "Gray Face Surrounded",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/heksene_by_freya.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/heksene_by_freya.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "freya",
     title: "Heksene",
@@ -4136,8 +3861,7 @@ export const images = [
     title: "Husk Å Drikke Vann Og Spise Ordentlig På Tg",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/invasion_by_zoylster.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/invasion_by_zoylster.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "zoylster",
     title: "Invasion",
@@ -4150,15 +3874,13 @@ export const images = [
     title: "Just Talk To Hear Already",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/marion_by_tinish.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/marion_by_tinish.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "tinish",
     title: "Marion",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/massacre_by_sigmaa.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/massacre_by_sigmaa.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "sigmaa",
     title: "Massacre",
@@ -4171,8 +3893,7 @@ export const images = [
     title: "Moma I Luuuv You Hold It Down",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/only_one_captain_by_skosole.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/only_one_captain_by_skosole.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "skosole",
     title: "Only One Captain",
@@ -4185,29 +3906,25 @@ export const images = [
     title: "Pixel Perfect Aim",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/rock_n_more_by_petterroea.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/rock_n_more_by_petterroea.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "petterroea",
     title: "Rock N More",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/sdklgn_by_eglikarbacon.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/sdklgn_by_eglikarbacon.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "eglikarbacon",
     title: "Sdklgn",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/u_matoken_wat_by_slimynoob.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/u_matoken_wat_by_slimynoob.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "slimynoob",
     title: "U Matoken Wat",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/underwater_by_itr.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint/underwater_by_itr.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/MSPaint",
     creator: "itr",
     title: "Underwater",
@@ -4227,36 +3944,31 @@ export const images = [
     title: "What Nasa Really Discovered",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/after_the_storm_by_kennidenni.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/after_the_storm_by_kennidenni.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "kennidenni",
     title: "After The Storm",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/airbourne_padlocks_by_rootkit.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/airbourne_padlocks_by_rootkit.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "rootkit",
     title: "Airbourne Padlocks",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/back_to_the_future_by_znurre.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/back_to_the_future_by_znurre.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "znurre",
     title: "Back To The Future",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/boat_trip_in_lamu_by_klarita.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/boat_trip_in_lamu_by_klarita.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "klarita",
     title: "Boat Trip In Lamu",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/dark_light_house_by_superted.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/dark_light_house_by_superted.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "superted",
     title: "Dark Light House",
@@ -4269,15 +3981,13 @@ export const images = [
     title: "Dogs On The Prairie",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/earth_porn_by_skyrim.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/earth_porn_by_skyrim.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "skyrim",
     title: "Earth Porn",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/eye_of_the_kitty_by_kortho.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/eye_of_the_kitty_by_kortho.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "kortho",
     title: "Eye Of The Kitty",
@@ -4290,8 +4000,7 @@ export const images = [
     title: "Gaming From Dusk Till Dawn.",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/into_the_light_by_nara.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/into_the_light_by_nara.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "nara",
     title: "Into The Light",
@@ -4304,50 +4013,43 @@ export const images = [
     title: "Korpsh+ªlvete",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/misty_road_by_millisrose.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/misty_road_by_millisrose.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "millisrose",
     title: "Misty Road",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/omnomnom!_by_miaspamnades.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/omnomnom!_by_miaspamnades.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "miaspamnades",
     title: "Omnomnom!",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/playing_with_fire_by__tor.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/playing_with_fire_by__tor.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: " tor",
     title: "Playing With Fire",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/preikestolen_by_abbie.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/preikestolen_by_abbie.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "abbie",
     title: "Preikestolen",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/rog_numpad_by_damoggen.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/rog_numpad_by_damoggen.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "damoggen",
     title: "Rog Numpad",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/spring_is_the_season_by_solor.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/spring_is_the_season_by_solor.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "solor",
     title: "Spring Is The Season",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/twister_by_zerd.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo/twister_by_zerd.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/Photo",
     creator: "zerd",
     title: "Twister",
@@ -4360,8 +4062,7 @@ export const images = [
     title: "7 Kitchen",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/RenderedGraphics/beneath_by_volant.png",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/RenderedGraphics/beneath_by_volant.png",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/RenderedGraphics",
     creator: "volant",
     title: "Beneath",
@@ -4430,8 +4131,7 @@ export const images = [
     title: "Smith And Wesson Ar 15",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/RenderedGraphics/the_future_by_nara.jpg",
+    url: "https://ftp.gathering.org/TG/2015/CreativeCompos/RenderedGraphics/the_future_by_nara.jpg",
     source: "https://ftp.gathering.org/TG/2015/CreativeCompos/RenderedGraphics",
     creator: "nara",
     title: "The Future",
@@ -4474,72 +4174,63 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/anne_martine_engebakken_grymyr.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "grymyr",
     title: "martine engebakken",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/christopher_daniel_gruben.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "gruben",
     title: "daniel",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/eirik_moldskred_hildre.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "hildre",
     title: "moldskred",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/john_freddy_jakobsen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "jakobsen",
     title: "freddy",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/june_daugaard_jenssen.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "jenssen",
     title: "daugaard",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/mariel_simone_edlund.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "edlund",
     title: "simone",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/pål_oppegård_herje.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "herje",
     title: "oppegård",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/simen_kuttner_larsen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "larsen",
     title: "kuttner",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation/øyvind_skattum_vesteng.png",
-    source:
-      "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2015/CreativeCompos/ThemedPhotoManipulation",
     creator: "vesteng",
     title: "skattum",
   },
@@ -4621,8 +4312,7 @@ export const images = [
     title: "Beautiful Encounter",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/FastGraphics/buggy_wonderland_by_b2.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/FastGraphics/buggy_wonderland_by_b2.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/FastGraphics",
     creator: "b2",
     title: "Buggy Wonderland",
@@ -4642,8 +4332,7 @@ export const images = [
     title: "Emalard Dynastinae",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/FastGraphics/flying_bugs_by_zemi.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/FastGraphics/flying_bugs_by_zemi.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/FastGraphics",
     creator: "zemi",
     title: "Flying Bugs",
@@ -4707,190 +4396,164 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/against_a_horizon_by_north_hylian.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "north hylian",
     title: "Against A Horizon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/aleppo_syria_by_angst.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "angst",
     title: "Aleppo Syria",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/arrival_by_f4celess.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "f4celess",
     title: "Arrival",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/big_weapon_by_klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "klarita",
     title: "Big Weapon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/brotherhood_by_mia.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "mia",
     title: "Brotherhood",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/dreamguide_by_zackira.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "zackira",
     title: "Dreamguide",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/early_morning_smells_different_by_exeshe4ki.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "exeshe4ki",
     title: "Early Morning Smells Different",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/explorer_of_skies_by_kylie.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "kylie",
     title: "Explorer Of Skies",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/fortapt_i_spillet_by_selparda.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "selparda",
     title: "Fortapt I Spillet",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/gonna_need_a_bigger_sword_by_skreechie.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "skreechie",
     title: "Gonna Need A Bigger Sword",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/hulder_by_marilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/hulder_by_marilla.png",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "marilla",
     title: "Hulder",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/imagination_by_rainsoda.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "rainsoda",
     title: "Imagination",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/insanity_on_by_hellhound_creations.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "hellhound creations",
     title: "Insanity On",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/maiden_of_fire_by_henstav.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "henstav",
     title: "Maiden Of Fire",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/my_trusty_steed_by_local_asian.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "local asian",
     title: "My Trusty Steed",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/naga_by_rine.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/naga_by_rine.png",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "rine",
     title: "Naga",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/paralell_worlds_by_wolferror.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "wolferror",
     title: "Paralell Worlds",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/protecting_the_village_by_kristoffer_srensen.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "kristoffer srensen",
     title: "Protecting The Village",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/red_dragon_by_zemi.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "zemi",
     title: "Red Dragon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/safe_haven_by_geekypotatoe.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "geekypotatoe",
     title: "Safe Haven",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/she_who_brings_the_night_by_octogear.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "octogear",
     title: "She Who Brings The Night",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/switched_on_never_off_by_strandli.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "strandli",
     title: "Switched On Never Off",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics/utopian_world_problems_by_equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/HanddrawnGraphics",
     creator: "equiliari",
     title: "Utopian World Problems",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/apple_tree_by_mrracerhacker.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/apple_tree_by_mrracerhacker.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "mrracerhacker",
     title: "Apple Tree",
@@ -4903,15 +4566,13 @@ export const images = [
     title: "Cosplay Is Not Consent",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/drage_by_selparda.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/drage_by_selparda.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "selparda",
     title: "Drage",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/emotional_stuff_by_past.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/emotional_stuff_by_past.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "past",
     title: "Emotional Stuff",
@@ -4924,22 +4585,19 @@ export const images = [
     title: "Forest Spirit Warrior",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/gjeit_pa_xp_by_rubzn.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/gjeit_pa_xp_by_rubzn.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "rubzn",
     title: "Gjeit Pa Xp",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/green_plains_by_anita.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/green_plains_by_anita.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "anita",
     title: "Green Plains",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/grnt_lys_by_suuhlem.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/grnt_lys_by_suuhlem.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "suuhlem",
     title: "Grnt Lys",
@@ -4959,8 +4617,7 @@ export const images = [
     title: "Life Is Crude",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/mounten_cabin_by_magnnils.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/mounten_cabin_by_magnnils.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "magnnils",
     title: "Mounten Cabin",
@@ -4980,43 +4637,37 @@ export const images = [
     title: "Not So Gentle Men",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/pepe_3_by_too_cool_name.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/pepe_3_by_too_cool_name.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "too cool name",
     title: "Pepe 3",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/powerminati_by_aodon.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/powerminati_by_aodon.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "aodon",
     title: "Powerminati",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/reach_by_zemi.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/reach_by_zemi.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "zemi",
     title: "Reach",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/sheep_happens_by_superted.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/sheep_happens_by_superted.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "superted",
     title: "Sheep Happens",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/skogmeme_xd_by_per_kristian.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/skogmeme_xd_by_per_kristian.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "per kristian",
     title: "Skogmeme Xd",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/skrik_av_mnk_by_wulfsted.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/skrik_av_mnk_by_wulfsted.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "wulfsted",
     title: "Skrik Av Mnk",
@@ -5029,8 +4680,7 @@ export const images = [
     title: "Switched On Sisters",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/team_allemann_by_hodoze.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/team_allemann_by_hodoze.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "hodoze",
     title: "Team Allemann",
@@ -5043,15 +4693,13 @@ export const images = [
     title: "Tg 2016 When Two Worlds Merge",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/tg_hype_by_petterson.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/tg_hype_by_petterson.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "petterson",
     title: "Tg Hype",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/tg_robot_by_kunero.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint/tg_robot_by_kunero.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/MSPaint",
     creator: "kunero",
     title: "Tg Robot",
@@ -5064,8 +4712,7 @@ export const images = [
     title: "Wonderland",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/asparagus_by_xinux.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/asparagus_by_xinux.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "xinux",
     title: "Asparagus",
@@ -5078,43 +4725,37 @@ export const images = [
     title: "Bring Your Lasers",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/do_you_even_lift_by_mjlk.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/do_you_even_lift_by_mjlk.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "mjlk",
     title: "Do You Even Lift",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/escape_by_sindre_stien.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/escape_by_sindre_stien.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "sindre stien",
     title: "Escape",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/froggy_by_8bitpopcorn.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/froggy_by_8bitpopcorn.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "8bitpopcorn",
     title: "Froggy",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/glinda_the_good_by_gingerbarn.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/glinda_the_good_by_gingerbarn.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "gingerbarn",
     title: "Glinda The Good",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/grnn_er_en_fin_farge_by_space.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/grnn_er_en_fin_farge_by_space.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "space",
     title: "Grnn Er En Fin Farge",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/gutt_by_bumbersh00t.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/gutt_by_bumbersh00t.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "bumbersh00t",
     title: "Gutt",
@@ -5148,22 +4789,19 @@ export const images = [
     title: "Kjrer Inn I Solnedgangen",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/lugnt_by_vetle.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/lugnt_by_vetle.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "vetle",
     title: "Lugnt",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/metro_sexual_by_datacoma.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/metro_sexual_by_datacoma.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "datacoma",
     title: "Metro Sexual",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/midnattsol_by_krill.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/midnattsol_by_krill.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "krill",
     title: "Midnattsol",
@@ -5187,19 +4825,16 @@ export const images = [
       "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/sir_do_you_have_a_moment_to_talk_about_our_lord_and_saviour_poseidon_by_marilla.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "marilla",
-    title:
-      "Sir Do You Have A Moment To Talk About Our Lord And Saviour Poseidon",
+    title: "Sir Do You Have A Moment To Talk About Our Lord And Saviour Poseidon",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/sndekket_y_by_mraleksen.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/sndekket_y_by_mraleksen.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "mraleksen",
     title: "Sndekket Y",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/ta_tjuren_vid_hornen_by_b2.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/ta_tjuren_vid_hornen_by_b2.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "b2",
     title: "Ta Tjuren Vid Hornen",
@@ -5212,22 +4847,19 @@ export const images = [
     title: "The Cabin In The Woods",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/ut_pa_tur_aldri_sur_by_kvaa99.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/ut_pa_tur_aldri_sur_by_kvaa99.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "kvaa99",
     title: "Ut Pa Tur Aldri Sur",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/widere_by_equiliari.png",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/widere_by_equiliari.png",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "equiliari",
     title: "Widere",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/winter_joy_by_dinosaur.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo/winter_joy_by_dinosaur.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/Photo",
     creator: "dinosaur",
     title: "Winter Joy",
@@ -5240,8 +4872,7 @@ export const images = [
     title: "Wrong F Chevron",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/absolut_hylle_by_bizardo.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/absolut_hylle_by_bizardo.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "bizardo",
     title: "Absolut Hylle",
@@ -5254,8 +4885,7 @@ export const images = [
     title: "Camp Sletten 1",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/dom_ino_by_tacticalj.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/dom_ino_by_tacticalj.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "tacticalj",
     title: "Dom Ino",
@@ -5268,15 +4898,13 @@ export const images = [
     title: "Fancy Wood Piece",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/for_the_horde_by_cacaw.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/for_the_horde_by_cacaw.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "cacaw",
     title: "For The Horde",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/fowl_play_by_fowl_play.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/fowl_play_by_fowl_play.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "fowl play",
     title: "Fowl Play",
@@ -5303,8 +4931,7 @@ export const images = [
     title: "Jim And Janka",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/kibbe_by_team_kibbe.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/kibbe_by_team_kibbe.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "team kibbe",
     title: "Kibbe",
@@ -5324,15 +4951,13 @@ export const images = [
     title: "Musiicshark Glove Shelf",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/my_reol_by_spacetroll99.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/my_reol_by_spacetroll99.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "spacetroll99",
     title: "My Reol",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/nerdeprat_by_vantalim.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/nerdeprat_by_vantalim.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "vantalim",
     title: "Nerdeprat",
@@ -5345,8 +4970,7 @@ export const images = [
     title: "Paskeoasen",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/pilts_reol_by_pilting.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/pilts_reol_by_pilting.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "pilting",
     title: "Pilts Reol",
@@ -5366,8 +4990,7 @@ export const images = [
     title: "Techgasm",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/teppehylla_by_mrburn.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/teppehylla_by_mrburn.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "mrburn",
     title: "Teppehylla",
@@ -5387,8 +5010,7 @@ export const images = [
     title: "Trenger Ikke A Vaere Fancy For A Se Kul Ut",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/yggdrasil_by_hawtsken.jpg",
+    url: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol/yggdrasil_by_hawtsken.jpg",
     source: "https://ftp.gathering.org/TG/2016/CreativeCompos/PimpmyReol",
     creator: "hawtsken",
     title: "Yggdrasil",
@@ -5466,152 +5088,133 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/a_psychedelic_experience_by_tor.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "tor",
     title: "A Psychedelic Experience",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/autumn_by_lufteluke.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "lufteluke",
     title: "Autumn",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/exotic_forrest_by_miaspamnades.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "miaspamnades",
     title: "Exotic Forrest",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/hulder_by_equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "equiliari",
     title: "Hulder",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/laser_woman_in_forest_mountain_with_tables_by_stupebrett.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "stupebrett",
     title: "Laser Woman In Forest Mountain With Tables",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/leke_med_dukker_by_selparda.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "selparda",
     title: "Leke Med Dukker",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/lost_in_dreams_by_vinx.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "vinx",
     title: "Lost In Dreams",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/misty_woods_by_strandli.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "strandli",
     title: "Misty Woods",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/navnlst_bilde_by_kvaa99.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "kvaa99",
     title: "Navnlst Bilde",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/nofilter_by_pertrosfoliea.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "pertrosfoliea",
     title: "Nofilter",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/postkort_by_xinux.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "xinux",
     title: "Postkort",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/princess_forest_brunch_by_leech.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "leech",
     title: "Princess Forest Brunch",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/princess_in_the_woods_by_bizardo.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "bizardo",
     title: "Princess In The Woods",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/princess_on_the_run_by_kenneth_jarnes.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "kenneth jarnes",
     title: "Princess On The Run",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/queen_mist_by_klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "klarita",
     title: "Queen Mist",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/rotten_flesh_by_mysticsheik.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "mysticsheik",
     title: "Rotten Flesh",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/skogtur_by_mortenerpen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "mortenerpen",
     title: "Skogtur",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/the_blue_fairy_by_camillasau.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "camillasau",
     title: "The Blue Fairy",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation/to_jenter_i_en_skog_by_space.png",
-    source:
-      "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2016/CreativeCompos/ThemedPhotoManipulation",
     creator: "space",
     title: "To Jenter I En Skog",
   },
@@ -5644,8 +5247,7 @@ export const images = [
     title: "Hunters Gladiators Pursuit",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Maryjane_by_maryjane89.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Maryjane_by_maryjane89.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay",
     creator: "maryjane89",
     title: "Maryjane",
@@ -5672,8 +5274,7 @@ export const images = [
     title: "Oni Genji Fra Overwatch",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Princess_Peach__by_Tillie.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Princess_Peach__by_Tillie.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay",
     creator: "Tillie",
     title: "Princess Peach",
@@ -5693,8 +5294,7 @@ export const images = [
     title: "Roadhog From Overwatch",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Sailer_Moon_by_Zweetheart.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Sailer_Moon_by_Zweetheart.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay",
     creator: "Zweetheart",
     title: "Sailer Moon",
@@ -5735,8 +5335,7 @@ export const images = [
     title: "Tyrande Whisperwind",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Wheres_Waldo__by_kris23.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay/Wheres_Waldo__by_kris23.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/Cosplay",
     creator: "kris23",
     title: "Wheres Waldo",
@@ -5861,8 +5460,7 @@ export const images = [
     title: "Thomas The Tank Engine Does Not Approve Being",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/FastGraphics/TÅMAS_by_Kazoka.png",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/FastGraphics/TÅMAS_by_Kazoka.png",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/FastGraphics",
     creator: "Kazoka",
     title: "TÅMAS",
@@ -5891,157 +5489,137 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/#eastersecrets_by_Lighth0use.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Lighth0use",
     title: "#eastersecrets",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Cucked_by_the_law_of_aerodynamics_by_aginpro.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "the law of aerodynamics",
     title: "Cucked",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Deep_Down_by_Pauler.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Pauler",
     title: "Deep Down",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Earth_Dryad_by_linnhehe.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "linnhehe",
     title: "Earth Dryad",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Forgotten_empire_by_North_Hylian.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "North Hylian",
     title: "Forgotten Empire",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Hiof_TG17_by_Cesori.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Cesori",
     title: "Hiof TG17",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Keeping_your_secrets_safe...._by_Lillepus.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Lillepus",
     title: "Keeping Your Secrets Safe....",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Mystery_Loot_by_F4celess.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "F4celess",
     title: "Mystery Loot",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/No_enemies_by_Rainsoda.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Rainsoda",
     title: "No Enemies",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/No_face_by_Anita123491.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Anita123491",
     title: "No Face",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Orbiter_Sisters_by_Joovie.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Joovie",
     title: "Orbiter Sisters",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Secrets_of_the_Universe_by_EquiliariCrew.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "EquiliariCrew",
     title: "Secrets Of The Universe",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Silver_hair_by_Drifandi.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Drifandi",
     title: "Silver Hair",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/The_Countess_by_Camzilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Camzilla",
     title: "The Countess",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/The_illusion_of_freedom_by_Harley_Quinn.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Harley Quinn",
     title: "The Illusion Of Freedom",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Your_fate_is_in_your_hands_by_Camillasau.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Camillasau",
     title: "Your Fate Is In Your Hands",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/Your_secret's_safe_with_me__by_Pandolyn.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Pandolyn",
     title: "Your Secret's Safe With Me",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics/guild_gathering_by_Skrats.png",
-    source:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2017/CreativeCompos/HandDrawnGraphics",
     creator: "Skrats",
     title: "Guild Gathering",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/RenderedGraphics/Arne_by_NERDIE.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/RenderedGraphics/Arne_by_NERDIE.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/RenderedGraphics",
     creator: "NERDIE",
     title: "Arne",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/RenderedGraphics/Cosy_by_n000b.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/RenderedGraphics/Cosy_by_n000b.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/RenderedGraphics",
     creator: "n000b",
     title: "Cosy",
@@ -6103,22 +5681,19 @@ export const images = [
     title: "CinderellaSecret",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Esoteric_by_andy.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Esoteric_by_andy.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "andy",
     title: "Esoteric",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Exodus_by_Camillasau.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Exodus_by_Camillasau.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "Camillasau",
     title: "Exodus",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Fading_by_TheRidder.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Fading_by_TheRidder.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "TheRidder",
     title: "Fading",
@@ -6138,8 +5713,7 @@ export const images = [
     title: "Hack The Planet!",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Human__by_Mr0Flamel.png",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Human__by_Mr0Flamel.png",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "Mr0Flamel",
     title: "Human",
@@ -6152,22 +5726,19 @@ export const images = [
     title: "JoHari's Window",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Kvaa99_by_Kvaa99.png",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Kvaa99_by_Kvaa99.png",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "Kvaa99",
     title: "Kvaa99",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Lazer_Eyes_by_torstine.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Lazer_Eyes_by_torstine.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "torstine",
     title: "Lazer Eyes",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Mobil_by_KawaiiChips.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Mobil_by_KawaiiChips.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "KawaiiChips",
     title: "Mobil",
@@ -6180,8 +5751,7 @@ export const images = [
     title: "Never Trust A Webcam(girl)",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/No_telling_by_Dinosaur.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/No_telling_by_Dinosaur.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "Dinosaur",
     title: "No Telling",
@@ -6201,8 +5771,7 @@ export const images = [
     title: "Pandoras Box",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Passageways_by_oeb81.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Passageways_by_oeb81.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "oeb81",
     title: "Passageways",
@@ -6222,8 +5791,7 @@ export const images = [
     title: "Secret. SSSSHHHHH",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Secret_by_Angst.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/Secret_by_Angst.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "Angst",
     title: "Secret",
@@ -6250,8 +5818,7 @@ export const images = [
     title: "The Mysterious Lady",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/The_Subway_Girl_by_B2.jpg",
+    url: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto/The_Subway_Girl_by_B2.jpg",
     source: "https://ftp.gathering.org/TG/2017/CreativeCompos/ThemedPhoto",
     creator: "B2",
     title: "The Subway Girl",
@@ -6285,22 +5852,19 @@ export const images = [
     title: "You Cannot Hide",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/Casemod/BIL_FELG_by_hustler.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/Casemod/BIL_FELG_by_hustler.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/Casemod",
     creator: "hustler",
     title: "BIL FELG",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/Cosplay/10th_Doctor_by_asteconn.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/Cosplay/10th_Doctor_by_asteconn.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/Cosplay",
     creator: "asteconn",
     title: "Th Doctor",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/Cosplay/Batman_by_TooSpooky.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/Cosplay/Batman_by_TooSpooky.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/Cosplay",
     creator: "TooSpooky",
     title: "Batman",
@@ -6397,8 +5961,7 @@ export const images = [
     title: "Snow Bunny Nidalee Fra League Of Legends",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Arteemis_by_Arteemis.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Arteemis_by_Arteemis.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay",
     creator: "Arteemis",
     title: "Arteemis",
@@ -6418,22 +5981,19 @@ export const images = [
     title: "DenFrosneKongApe",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Kirabani_by_Kirabani.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Kirabani_by_Kirabani.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay",
     creator: "Kirabani",
     title: "Kirabani",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Kuroneko_by_Kuroneko.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Kuroneko_by_Kuroneko.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay",
     creator: "Kuroneko",
     title: "Kuroneko",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Martin_by_Martin.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/Martin_by_Martin.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay",
     creator: "Martin",
     title: "Martin",
@@ -6446,8 +6006,7 @@ export const images = [
     title: "Mini M0nst3r",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/TooSpooky_by_TooSpooky.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay/TooSpooky_by_TooSpooky.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FastCosplay",
     creator: "TooSpooky",
     title: "TooSpooky",
@@ -6455,520 +6014,452 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/1_Skullgirl_by_Tosspot.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Tosspot",
     title: "Skullgirl",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Adventurers_by_Klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Klarita",
     title: "Adventurers",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Alley_by_Drifandi.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Drifandi",
     title: "Alley",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/As_Pink_as_Jinger_by_Kristine.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Kristine",
     title: "As Pink As Jinger",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Ashen_Dragonborn_Fighter_by_Sabotender.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Sabotender",
     title: "Ashen Dragonborn Fighter",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Celia_Wasthill_by_Dj_Taka.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Dj Taka",
     title: "Celia Wasthill",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Dragon_by_linnhehe.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "linnhehe",
     title: "Dragon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/IKKE_SPIS_P_BIBILOTEKET_by_martard.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "martard",
     title: "IKKE SPIS P BIBILOTEKET",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Incantatrix_by_MillisRose.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "MillisRose",
     title: "Incantatrix",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Jeg_trudde_dette_var_paint_konkurransen_by_Katrine.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Katrine",
     title: "Jeg Trudde Dette Var Paint Konkurransen",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Leak_by_F4celess.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Leak_by_F4celess.jpg",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "F4celess",
     title: "Leak",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Over_the_limit_by_AnneM.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "AnneM",
     title: "Over The Limit",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Sorcerer_by_WolfError.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "WolfError",
     title: "Sorcerer",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Spring_Fairy_by_Cesori.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Cesori",
     title: "Spring Fairy",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Sunbathing_by_Zumori.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Zumori",
     title: "Sunbathing",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Tre_nye_f_lgere_by_oklien.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "oklien",
     title: "Tre Nye F Lgere",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Weathered_Orc_with_old_pal_by_Powersimon.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Powersimon",
     title: "Weathered Orc With Old Pal",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/When_two_worlds_meet_by_Tonii_Wan.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Tonii Wan",
     title: "When Two Worlds Meet",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/Wolfwitch_by_Julie_Maria.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Julie Maria",
     title: "Wolfwitch",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/huntforlikes_by_Lillepus.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "Lillepus",
     title: "Huntforlikes",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn/lightning_by_kizoo.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleHanddrawn",
     creator: "kizoo",
     title: "Lightning",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/Average_Day_At_The_Office_by_Even.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "Even",
     title: "Average Day At The Office",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/Big_Knife_by_Night_Weaver.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "Night Weaver",
     title: "Big Knife",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/Disco_ball_by_Kvaa99.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "Kvaa99",
     title: "Disco Ball",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/Griff_by_Gnomus.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "Gnomus",
     title: "Griff",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/Ignite_by_metehelde.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "metehelde",
     title: "Ignite",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/Swedish_Uzi_by_F4celess.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "F4celess",
     title: "Swedish Uzi",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/The_Huntress_by_linnhehe.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "linnhehe",
     title: "The Huntress",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics/The_Unknown_by_Heileif.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/FreestyleRenderedGraphics",
     creator: "Heileif",
     title: "The Unknown",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Alchemist_by_Equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Equiliari",
     title: "Alchemist",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Det_finnes_ingen_tittel_for_et_bilde_som_dett_by_DEaZArC.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "DEaZArC",
     title: "Det Finnes Ingen Tittel For Et Bilde Som Dett",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Dunnoyet_by_Jellyfishbrain.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Jellyfishbrain",
     title: "Dunnoyet",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Elfi_by_Silli.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Elfi_by_Silli.png",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Silli",
     title: "Elfi",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Fabulous_Frikk_as_a_Unicorn_by_Powersimon.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Powersimon",
     title: "Fabulous Frikk As A Unicorn",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Frikk_er_drikk_by_Hauk.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Hauk",
     title: "Frikk Er Drikk",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Frikk_i_Knipe_av_Tonii_Wan_by_Tonii_Wan.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Tonii Wan",
     title: "Frikk I Knipe Av Tonii Wan",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Frikk_stilleben_by_Klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Klarita",
     title: "Frikk Stilleben",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Little_Mr_Friggy_by_Sabotender.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Sabotender",
     title: "Little Mr Friggy",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Ludvig_by_Kvaa99.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Ludvig_by_Kvaa99.jpg",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Kvaa99",
     title: "Ludvig",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Ma_Boy_Frikk_by__Viken_.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: " Viken ",
     title: "Ma Boy Frikk",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Penguin_taking_a_bubble_bath_by_torstine.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "torstine",
     title: "Penguin Taking A Bubble Bath",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/Virtual_Chair_by_MillisRose.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "MillisRose",
     title: "Virtual Chair",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation/sj_by_Pertrosfoliea.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/PhotoManipulation",
     creator: "Pertrosfoliea",
     title: "Sj",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Art_by_SeaLantern.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "SeaLantern",
     title: "Art",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Attack_on_the_unicorns_by_Klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Klarita",
     title: "Attack On The Unicorns",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/C47ch_th3_unic0rn_by_Lillepus.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Lillepus",
     title: "C47ch Th3 Unic0rn",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Demon_Unicorn_by_Sigurd_Amundsen.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Sigurd Amundsen",
     title: "Demon Unicorn",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Enhj_rningenes_demon_by_Arrozci.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Arrozci",
     title: "Enhj Rningenes Demon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Everone_has_a_second_life_by_Pauler.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Pauler",
     title: "Everone Has A Second Life",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Evil_Icelandic_Unicorn_of_Love_by_Drifandi.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Drifandi",
     title: "Evil Icelandic Unicorn Of Love",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Evil_Pepperoni_Unicorn_by_drixer.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "drixer",
     title: "Evil Pepperoni Unicorn",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Hitler_s_D_defest_by_Silli.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Silli",
     title: "Hitler S D Defest",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/I_want_that_Unipizza_by_Vinx.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Vinx",
     title: "I Want That Unipizza",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/MWOOOOHAHAHAHHAHAH_by_Angst.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Angst",
     title: "MWOOOOHAHAHAHHAHAH",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Mariel_Propell_vs_Evil_Unicorn_Pizza_Monster_by_MillisRose.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "MillisRose",
     title: "Mariel Propell Vs Evil Unicorn Pizza Monster",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Me_my_steed_and_my_dinner_by_Powersimon.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Powersimon",
     title: "Me My Steed And My Dinner",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/PIZZAMAN_VS_UNICORN_by_martard.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "martard",
     title: "PIZZAMAN VS UNICORN",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Pizza_is_love_Pizza_is_life_by_helloTurquoise_.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "helloTurquoise ",
     title: "Pizza Is Love Pizza Is Life",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Saving_a_new_friend_by_Julie_Maria.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Julie Maria",
     title: "Saving A New Friend",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/The_Devil_s_Game_by_Sabotender.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Sabotender",
     title: "The Devil S Game",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/The_Devil_s_Topping_by_Shosta.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Shosta",
     title: "The Devil S Topping",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/True_evil_by_Zumori.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Zumori",
     title: "True Evil",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Trynebilde_by_Magiclove.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "Magiclove",
     title: "Trynebilde",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/Will_it_be_enough_though_by_F4celess.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "F4celess",
     title: "Will It Be Enough Though",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics/my_little_necronomicon_by_adrian.png",
-    source:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
+    source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedFastGraphics",
     creator: "adrian",
     title: "My Little Necronomicon",
   },
@@ -7008,8 +6499,7 @@ export const images = [
     title: "Elg Hest Piggsvin",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Fat_Boi_by_Lumberjack.png",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Fat_Boi_by_Lumberjack.png",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint",
     creator: "Lumberjack",
     title: "Fat Boi",
@@ -7036,15 +6526,13 @@ export const images = [
     title: "Frikkvin",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/GGX_Gang_by_aKre.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/GGX_Gang_by_aKre.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint",
     creator: "aKre",
     title: "GGX Gang",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Kida_by_MillisRose.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Kida_by_MillisRose.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint",
     creator: "MillisRose",
     title: "Kida",
@@ -7057,8 +6545,7 @@ export const images = [
     title: "Mr Mutant PiggO",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/MutaTUX_by_Blazer.png",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/MutaTUX_by_Blazer.png",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint",
     creator: "Blazer",
     title: "MutaTUX",
@@ -7078,8 +6565,7 @@ export const images = [
     title: "Mutant Wrestling Organisation Presents GALU",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Pengu_by_Klarita.png",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Pengu_by_Klarita.png",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint",
     creator: "Klarita",
     title: "Pengu",
@@ -7176,15 +6662,13 @@ export const images = [
     title: "Tr Nderpingvinen",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Vengeance_by_Vinx.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Vengeance_by_Vinx.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint",
     creator: "Vinx",
     title: "Vengeance",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Wolfhodge_by_amaya.png",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint/Wolfhodge_by_amaya.png",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedMSPaint",
     creator: "amaya",
     title: "Wolfhodge",
@@ -7218,8 +6702,7 @@ export const images = [
     title: "Back Alley Mugging Selfie",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/D4T_A_by_Eglikarbacon.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/D4T_A_by_Eglikarbacon.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto",
     creator: "Eglikarbacon",
     title: "D4T A",
@@ -7232,8 +6715,7 @@ export const images = [
     title: "Det Lukter B Sj",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Goes_WHERE_by_Angst.png",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Goes_WHERE_by_Angst.png",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto",
     creator: "Angst",
     title: "Goes WHERE",
@@ -7246,22 +6728,19 @@ export const images = [
     title: "Kitty Doesn T Care",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Kjapt_skrik_by_Abra.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Kjapt_skrik_by_Abra.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto",
     creator: "Abra",
     title: "Kjapt Skrik",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Lemon_juice_by_ginus.png",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Lemon_juice_by_ginus.png",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto",
     creator: "ginus",
     title: "Lemon Juice",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Ministerglede_by_Canaye.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Ministerglede_by_Canaye.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto",
     creator: "Canaye",
     title: "Ministerglede",
@@ -7274,15 +6753,13 @@ export const images = [
     title: "Peppes Redder Dagen",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Scratch_by_Klarita.png",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Scratch_by_Klarita.png",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto",
     creator: "Klarita",
     title: "Scratch",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Shadow_man_by_magska.jpg",
+    url: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto/Shadow_man_by_magska.jpg",
     source: "https://ftp.gathering.org/TG/2018/CreativeCompos/ThemedPhoto",
     creator: "magska",
     title: "Shadow Man",
@@ -7351,8 +6828,7 @@ export const images = [
     title: "Jorgs Light Show",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Casemod/RGB_by_stian_aka_sQuat.jpg",
+    url: "https://ftp.gathering.org/TG/2019/CreativeCompos/Casemod/RGB_by_stian_aka_sQuat.jpg",
     source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Casemod",
     creator: "stian aka sQuat",
     title: "RGB",
@@ -7393,8 +6869,7 @@ export const images = [
     title: "Craving Secrets",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Colouring/Glød_by_Mina_aka_Kvaa99.png",
+    url: "https://ftp.gathering.org/TG/2019/CreativeCompos/Colouring/Glød_by_Mina_aka_Kvaa99.png",
     source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Colouring",
     creator: "Mina aka Kvaa99",
     title: "Glød",
@@ -7477,8 +6952,7 @@ export const images = [
     title: "Ayay",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Colouring/tg_coloring_by_sølve.png",
+    url: "https://ftp.gathering.org/TG/2019/CreativeCompos/Colouring/tg_coloring_by_sølve.png",
     source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Colouring",
     creator: "sølve",
     title: "Tg Coloring",
@@ -7486,408 +6960,357 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Alexstrasza_World_of_Warcraft_by_Louise_Skjelbreid_aka_Louisetiger.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Louise Skjelbreid aka Louisetiger",
     title: "Alexstrasza World Of Warcraft",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Breath_of_the_Wild__Zelda_by_Joanna_aka_AlienAsian.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Joanna aka AlienAsian",
     title: "Breath Of The Wild Zelda",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Camilla_Olsen_som_Shallie_fra_Atelier_shallie_by_Camilla_aka_Camillaairay.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Camilla aka Camillaairay",
     title: "Camilla Olsen Som Shallie Fra Atelier Shallie",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Ferid_bathory_by_Logan_aka_WolfError.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Logan aka WolfError",
     title: "Ferid Bathory",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Jessie_fra_Team_Rocket_Klarita_by_Klara_aka_Klarita.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Klara aka Klarita",
     title: "Jessie Fra Team Rocket Klarita",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Jon_Snowgame_of_thrones_by_Christian_aka_chrihof.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Christian aka chrihof",
     title: "Jon Snowgame Of Thrones",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Julian_Svenningsen_Guts_fra_Berserk_by_Julian_Larsen_aka_85b6e20842654875ac55b24d30.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Julian Larsen aka 85b6e20842654875ac55b24d30",
     title: "Julian Svenningsen Guts Fra Berserk",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Katara_Avatar_The_Last_Airbender_by_Stine_aka_Kuroneko.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Stine aka Kuroneko",
     title: "Katara Avatar The Last Airbender",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Lille_My_by_Susanne_Nystjerne.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Susanne Nystjerne",
     title: "Lille My",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Link__Breath_of_The_Wild_by_jone_aka_JonShard.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "jone aka JonShard",
     title: "Link Breath Of The Wild",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Maghar_orc__World_of_Warcraft_by_Caroline_aka_Carris.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Caroline aka Carris",
     title: "Maghar Orc World Of Warcraft",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Mercy_from_Overwatch_by_Susanne_Skjold_aka_Suilion.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Susanne Skjold aka Suilion",
     title: "Mercy From Overwatch",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Sans_Undertale_by_Leo_aka_86935758682946cba75e8f9879.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Leo aka 86935758682946cba75e8f9879",
     title: "Sans Undertale",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Six_Little_Nightmares_by_Maren_Katrine_aka_Malix.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Maren Katrine aka Malix",
     title: "Six Little Nightmares",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Tenth_Doctor_by_Richard_aka_asteconn.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Richard aka asteconn",
     title: "Tenth Doctor",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Toothless_How_To_Train_Your_Dragon_by_Malin_aka_318405b466814119af988eef36.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Malin aka 318405b466814119af988eef36",
     title: "Toothless How To Train Your Dragon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Warlord__For_honor_by_stephan_aka_AzureAtion.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "stephan aka AzureAtion",
     title: "Warlord For Honor",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/Wheres_Wally_by_Kristian_René_Lindholm_aka_Kris23.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Kristian René Lindholm aka Kris23",
     title: "Wheres Wally",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen/thebadass16_by_Victor_Kibsgaard_aka_Deadpool69.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/Cosplaykonkurransen",
     creator: "Victor Kibsgaard aka Deadpool69",
     title: "Thebadass16",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/Another_Damn_Portal_by_Stian_aka_Equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Stian aka Equiliari",
     title: "Another Damn Portal",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/Arne_strikes_by_Thomas_Bakken_aka_Ninoglass.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Thomas Bakken aka Ninoglass",
     title: "Arne Strikes",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/Fury_by_Marika_Sofie_aka_Vaporclaws.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Marika Sofie aka Vaporclaws",
     title: "Fury",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/Lonely_Island_by_Olav_aka_BabyButtFace.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Olav aka BabyButtFace",
     title: "Lonely Island",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/Protected_by_the_wise_one_by_Klara_aka_Klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "the wise one",
     title: "Protected",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/Resistance_GOAT_by_Vilde_Marie_aka_Virafiel.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Vilde Marie aka Virafiel",
     title: "Resistance GOAT",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/Secretweapon_by_Tina_aka_Tinacolada.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Tina aka Tinacolada",
     title: "Secretweapon",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/The_Heartless_by_adrian_aka_ArtFæg.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "adrian aka ArtFæg",
     title: "The Heartless",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/The_Limit_by_Mariel_Simone_aka_MillisRose.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Mariel Simone aka MillisRose",
     title: "The Limit",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics/dogoe_by_Haakon_aka_Huntlocker.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastFreestyleGraphics",
     creator: "Haakon aka Huntlocker",
     title: "Dogoe",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Bob_Ross_with_chicken_by_Victoria_aka_PandaProblem.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Victoria aka PandaProblem",
     title: "Bob Ross With Chicken",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Cloud_Fight_by_Mariel_Simone_aka_MillisRose.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Mariel Simone aka MillisRose",
     title: "Cloud Fight",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Cloud_makers_friend_by_Thomas_Bakken_aka_Ninoglass.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Thomas Bakken aka Ninoglass",
     title: "Cloud Makers Friend",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Dont_be_such_a_chicken_by_Maren_Katrine_aka_Malix.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Maren Katrine aka Malix",
     title: "Dont Be Such A Chicken",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Friend_by_Stian_aka_Equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Stian aka Equiliari",
     title: "Friend",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Friend_fear_robot_by_Susanne_Nystjerne.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Susanne Nystjerne",
     title: "Friend Fear Robot",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Friends_by_Klara_aka_Klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Klara aka Klarita",
     title: "Friends",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Friendship_by_Tonje_aka_Suchkawaii.jpeg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Tonje aka Suchkawaii",
     title: "Friendship",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/Pyntet_Kylling_by_Maja_aka_Drifandi.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Maja aka Drifandi",
     title: "Pyntet Kylling",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/come_here_little_guy_by_adrian_aka_ArtFæg.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "adrian aka ArtFæg",
     title: "Come Here Little Guy",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics/kyllinggalskap_by_Marika_Sofie_aka_Vaporclaws.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastHanddrawnGraphics",
     creator: "Marika Sofie aka Vaporclaws",
     title: "Kyllinggalskap",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/ChaniPamela_Fast_Photo_Manipulation_by_Jani_aka_ChaniPamela.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Jani aka ChaniPamela",
     title: "ChaniPamela Fast Photo Manipulation",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/Cyber_Mr_Cool_QV20FINAL_by_Stian_aka_Equiliari.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Stian aka Equiliari",
     title: "Cyber Mr Cool QV20FINAL",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/Cyborgparty_by_Alexander_aka_tacokjell.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Alexander aka tacokjell",
     title: "Cyborgparty",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/Decaying_Cyborg_by_Olav_aka_BabyButtFace.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Olav aka BabyButtFace",
     title: "Decaying Cyborg",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/EG_prøvde_by_Gina_aka_ginus.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Gina aka ginus",
     title: "EG Prøvde",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/Hitchglitch_by_Lufteluke.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Lufteluke",
     title: "Hitchglitch",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/Slumdog_Cyborg_by_TheArcticKilla.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "TheArcticKilla",
     title: "Slumdog Cyborg",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/Witness_by_Vilde_Marie_aka_Virafiel.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Vilde Marie aka Virafiel",
     title: "Witness",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/robot_dong_by_adrian_aka_ArtFæg.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "adrian aka ArtFæg",
     title: "Robot Dong",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/tommel_opp_by_Peder_Kristian_aka_Psyco.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Peder Kristian aka Psyco",
     title: "Tommel Opp",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation/why_did_you_make_me_by_Anette_aka_Pertrosfoliea.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FastPhotoManipulation",
     creator: "Anette aka Pertrosfoliea",
     title: "Why Did You Make Me",
   },
@@ -7983,8 +7406,7 @@ export const images = [
     title: "Påske Sol",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/FreestylePhoto/RED_LINES_by_andy.jpg",
+    url: "https://ftp.gathering.org/TG/2019/CreativeCompos/FreestylePhoto/RED_LINES_by_andy.jpg",
     source: "https://ftp.gathering.org/TG/2019/CreativeCompos/FreestylePhoto",
     creator: "andy",
     title: "RED LINES",
@@ -8055,160 +7477,140 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Celia_Wasthill_Returns_by_Tor__Even_Lillevik_aka_DjTaka.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Tor  Even Lillevik aka DjTaka",
     title: "Celia Wasthill Returns",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/ChaniPamela_Handdrawn_Graphics_by_Jani_aka_ChaniPamela.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Jani aka ChaniPamela",
     title: "ChaniPamela Handdrawn Graphics",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Connected_by_Klara_aka_Klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Klara aka Klarita",
     title: "Connected",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/DVa_by_Camilla_aka_Mills.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Camilla aka Mills",
     title: "DVa",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Dryad_by_Maja_aka_Drifandi.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Maja aka Drifandi",
     title: "Dryad",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Eir_by_Vilde_Marie_aka_Virafiel.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Vilde Marie aka Virafiel",
     title: "Eir",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Heated_Core_by_Kim_aka_Madtrope.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Kim aka Madtrope",
     title: "Heated Core",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/I_did_it_for_her_by_Ole_Gunnar_aka_F4celess.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Ole Gunnar aka F4celess",
     title: "I Did It For Her",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Out_for_a_swim_by_Marika_Sofie_aka_Vaporclaws.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Marika Sofie aka Vaporclaws",
     title: "Out For A Swim",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Polaroid_by_Victoria_aka_PandaProblem.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Victoria aka PandaProblem",
     title: "Polaroid",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Robotic_Wildlife_by_Emilie__aka_Emmii.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Emilie  aka Emmii",
     title: "Robotic Wildlife",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Roll_Initiative_by_Mariel_Simone_aka_MillisRose.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Mariel Simone aka MillisRose",
     title: "Roll Initiative",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Scifi_alien_biker_by_Anna_Jemine_aka_jemis.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Anna Jemine aka jemis",
     title: "Scifi Alien Biker",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Tealie_the_Sorcerer_by_Iselin_aka_DragonTeal.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Iselin aka DragonTeal",
     title: "Tealie The Sorcerer",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/The_Battle_by_Inger_aka_Iserith.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Inger aka Iserith",
     title: "The Battle",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/What_A_Jokester_by_Maren_Katrine_aka_Malix.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Maren Katrine aka Malix",
     title: "What A Jokester",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/Why_resist_when_you_can_embrace_unity_by_Stian_aka_Equiliari.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Stian aka Equiliari",
     title: "Why Resist When You Can Embrace Unity",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/an_arthurian_view_by_adrian_aka_ArtFæg.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "adrian aka ArtFæg",
     title: "An Arthurian View",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/helvetesrytteren_by_sølve.png",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "sølve",
     title: "Helvetesrytteren",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics/inside_by_Frida_aka_kizoo.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
+    source: "https://ftp.gathering.org/TG/2019/CreativeCompos/HanddrawnGraphics",
     creator: "Frida aka kizoo",
     title: "Inside",
   },
@@ -8304,8 +7706,7 @@ export const images = [
     title: "Were No Strangers To Love",
   },
   {
-    url:
-      "https://ftp.gathering.org/TG/2019/CreativeCompos/MSPaint/chita_portrait_by_sølve.png",
+    url: "https://ftp.gathering.org/TG/2019/CreativeCompos/MSPaint/chita_portrait_by_sølve.png",
     source: "https://ftp.gathering.org/TG/2019/CreativeCompos/MSPaint",
     creator: "sølve",
     title: "Chita Portrait",
@@ -8404,138 +7805,501 @@ export const images = [
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics/Emerald_World_by_Sander_andre_aka_SanderA.png",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
     creator: "Sander andre aka SanderA",
     title: "Emerald World",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics/Into_another_reality_by_Susanne_Skjold_aka_Suilion.jpeg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
     creator: "Susanne Skjold aka Suilion",
     title: "Into Another Reality",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics/Magician_by_KlaraEmilia_aka_Klarita.png",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
     creator: "KlaraEmilia aka Klarita",
     title: "Magician",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics/Skuffet_by_Pia_aka_314a.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
     creator: "Pia aka 314a",
     title: "Skuffet",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics/TBD_by_Trym_aka_1cf0aca997ae4f3885a636c44a.png",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
     creator: "Trym aka 1cf0aca997ae4f3885a636c44a",
     title: "TBD",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics/The_Owl_by_Mina_aka_Kvaa99.png",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestyleGraphics",
     creator: "Mina aka Kvaa99",
     title: "The Owl",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Blue_girl_by_tina_aka_7c6f1f246cc7488d8b0e85c1b6.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "tina aka 7c6f1f246cc7488d8b0e85c1b6",
     title: "Blue Girl",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Choke__Kill_by_dirt_chamber.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "dirt chamber",
     title: "Choke Kill",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Dog_riding_a_horse_into_the_storm_by_Keith_Mellingen.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Keith Mellingen",
     title: "Dog Riding A Horse Into The Storm",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Freestyle_Photo_by_Eirin_aka_Teei.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Eirin aka Teei",
     title: "Freestyle Photo",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Gogutten_on_display_by_Kim_Alexander_aka_weckpack.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Kim Alexander aka weckpack",
     title: "Gogutten On Display",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Hodeskalle_i_IKEA_laken_by_Inger_aka_Iserith.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Inger aka Iserith",
     title: "Hodeskalle I IKEA Laken",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Isolation_is_not_good_for_me_by_KlaraEmilia_aka_Klarita.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "KlaraEmilia aka Klarita",
     title: "Isolation Is Not Good For Me",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/SEND_HELP_by_Georg_aka_DigiBlooD.png",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Georg aka DigiBlooD",
     title: "SEND HELP",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Sauen_shaun_by_Mina_aka_Kvaa99.png",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Mina aka Kvaa99",
     title: "Sauen Shaun",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/TG19_by_Jardar_aka_GreenRay.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Jardar aka GreenRay",
     title: "TG19",
   },
   {
     url:
       "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto/Trashmaid_tribute_by_Susanne_aka_Angst.jpg",
-    source:
-      "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
+    source: "https://ftp.gathering.org/TG/2020/Creative/TG20OnlineFreestylePhoto",
     creator: "Susanne aka Angst",
     title: "Trashmaid Tribute",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics/Fox_Hunt_by_Yvonne_aka_XinarTheNeko.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics",
+    creator: "Yvonne aka XinarTheNeko",
+    title: "Fox Hunt",
+  },
+  {
+    url: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics/Gumboy_by_Hyndla.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics",
+    creator: "Hyndla",
+    title: "Gumboy",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics/Nidalee_by_Julle_aka_Strayza.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics",
+    creator: "Julle aka Strayza",
+    title: "Nidalee",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics/På_rømmen_by_Maren_Katrine_aka_Malix.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics",
+    creator: "Maren Katrine aka Malix",
+    title: "På Rømmen",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics/Rampete_hund_med_sele_som_løper_ZOOOOOOOM_by_Håkon_aka_KongKnaskelusk.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics",
+    creator: "Håkon aka KongKnaskelusk",
+    title: "Rampete Hund Med Sele Som Løper ZOOOOOOOM",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics/Rogue_by_Camilla_aka_Camillasau.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics",
+    creator: "Camilla aka Camillasau",
+    title: "Rogue",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics/Stefaren_min_er_en_et_øyd_tentakel_monster_by_Inger_aka_Ashryn.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FastGraphics",
+    creator: "Inger aka Ashryn",
+    title: "Stefaren Min Er En Et Øyd Tentakel Monster",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Defrost_by_Klarita_by_Klarita.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "Klarita",
+    title: "Defrost",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Ellie_the_Demonsona_by_by_Elise_aka_Ellie.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "by Elise aka Ellie",
+    title: "Ellie The Demonsona",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Flying_unicorn_by_amaya_by_Beate_aka_amaya.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "amaya",
+    title: "Flying Unicorn",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Her_by_Thea_Sofie_Olaussen_by_Thea_Sofie_aka_Theathastico.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "Thea Sofie Olaussen",
+    title: "Her",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/JegKanIkkeGåUt_by_by_Kristin_Guggiana_aka_NotYourBacon.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "by Kristin Guggiana aka NotYourBacon",
+    title: "JegKanIkkeGåUt",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Lofi_beats_to_chillquarantine_to_by_marilla_by_marilla.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "marilla",
+    title: "Lofi Beats To Chillquarantine To",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Mandala_by_Hyndla_by_Hyndla.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "Hyndla",
+    title: "Mandala",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Maybe_next_year_by_by_Håkon_aka_KongKnaskelusk.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "by Håkon aka KongKnaskelusk",
+    title: "Maybe Next Year",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Neon_city_air_rider_by_Ashryn_by_Inger_aka_Ashryn.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "Ashryn",
+    title: "Neon City Air Rider",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/SpaceGirl_by_LonelyViken_by_Richard_aka_Viken.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "LonelyViken",
+    title: "SpaceGirl",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/The_cannibals_Guide_by_by_Mina_by_Mina_aka_Kvaa99.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "by Mina",
+    title: "The Cannibals Guide",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/The_time_of_eternity_by_314_by_Pia_aka_314a.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "314",
+    title: "The Time Of Eternity",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Under_Water_Its_Calm_by_Magic_Turtle_by_Casper_aka_MagicTurtle.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "Magic Turtle",
+    title: "Under Water Its Calm",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Whale_whale_whale_by_Theonian_by_Trym_aka_1cf0aca997ae4f3885a636c44a.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "Theonian",
+    title: "Whale Whale Whale",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/Yavanna_by_IdaDoris_by_Ida_Doris_aka_IdaDoris.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "IdaDoris",
+    title: "Yavanna",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/You_have_angered_the_Gods_Noita_the_game_by_by_Julle_aka_Strayza.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "by Julle aka Strayza",
+    title: "You Have Angered The Gods Noita The Game",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics/marblez_by_julez_by_Julie_aka_julez.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestyleGraphics",
+    creator: "julez",
+    title: "Marblez",
+  },
+  {
+    url: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Bettyboop_by_Mop.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Mop",
+    title: "Bettyboop",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Breath_by_Mina_aka_Kvaa99.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Mina aka Kvaa99",
+    title: "Breath",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Bylivet_i_Trondheim_by_Oscar_selnes_aka_Eliteflush.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Oscar selnes aka Eliteflush",
+    title: "Bylivet I Trondheim",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Cattitude_by_Acriana.jpeg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Acriana",
+    title: "Cattitude",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/CocaCola_Love_by_VeggiePokemon.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "VeggiePokemon",
+    title: "CocaCola Love",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Darling_Mini_F56_JCW_by_dedemona.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "dedemona",
+    title: "Darling Mini F56 JCW",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Dommedag_på_blefjell_by_sibj.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "sibj",
+    title: "Dommedag På Blefjell",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Ei_varm_hytte_i_ei_kald_vinternatt_by_JoMs.jpeg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "JoMs",
+    title: "Ei Varm Hytte I Ei Kald Vinternatt",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Elgfri_soloppgang_by_Stian_aka_Kepler.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Stian aka Kepler",
+    title: "Elgfri Soloppgang",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/En_liten_twist_by_Arrozci.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Arrozci",
+    title: "En Liten Twist",
+  },
+  {
+    url: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Fish_by_Klarita.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Klarita",
+    title: "Fish",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Gaupe_i_skogen_by_Sebastian_aka_Sebrein.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Sebastian aka Sebrein",
+    title: "Gaupe I Skogen",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Halo_in_Nature_by_Richard_aka_Viken.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Richard aka Viken",
+    title: "Halo In Nature",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Katastrofe_TG18_by_Håkon_aka_KongKnaskelusk.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Håkon aka KongKnaskelusk",
+    title: "Katastrofe TG18",
+  },
+  {
+    url: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Layers_by_Marvin_Don.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Marvin Don",
+    title: "Layers",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Mechanical_Monster_by_Datacoma.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Datacoma",
+    title: "Mechanical Monster",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Militært_i_solnedgang_by_Wethal_Eirik.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Wethal Eirik",
+    title: "Militært I Solnedgang",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/My_Chrismas_morning_by_Susanne_aka_Angst.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Susanne aka Angst",
+    title: "My Chrismas Morning",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Nordlys_Trøndelag_by_Sander_aka_Canaye.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Sander aka Canaye",
+    title: "Nordlys Trøndelag",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Rondane_by_Sigurd_aka_mckvakk.jpeg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Sigurd aka mckvakk",
+    title: "Rondane",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Sky_full_of_stars_by_AnneSofie_Sivle_aka_Sofiepett.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "AnneSofie Sivle aka Sofiepett",
+    title: "Sky Full Of Stars",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Sleepy_Dog_by_Keith_Mellingen.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Keith Mellingen",
+    title: "Sleepy Dog",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Sommer_by_Christiane_aka_SnapHound.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Christiane aka SnapHound",
+    title: "Sommer",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Those_who_dont_jump_will_never_fly_by_kajaarielle.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "kajaarielle",
+    title: "Those Who Dont Jump Will Never Fly",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Timeless_by_Camilla_aka_Camillasau.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Camilla aka Camillasau",
+    title: "Timeless",
+  },
+  {
+    url: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Untitled_by_LineXX.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "LineXX",
+    title: "Untitled",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Water_Galaxy_by_Thea_Sofie_aka_Theathastico.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Thea Sofie aka Theathastico",
+    title: "Water Galaxy",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/Wingman_by_Emil_Lauvrak_aka_NeiMaake.png",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Emil Lauvrak aka NeiMaake",
+    title: "Wingman",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/bubblez_by_Julie_aka_julez.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Julie aka julez",
+    title: "Bubblez",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/deilig_sol_by_Aleks_aka_Skelayo.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Aleks aka Skelayo",
+    title: "Deilig Sol",
+  },
+  {
+    url:
+      "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto/vintertåke_by_Roy_Andre_aka_inkl0rd.jpg",
+    source: "https://ftp.gathering.org/TG/2021/CreativeCompos/FreestylePhoto",
+    creator: "Roy Andre aka inkl0rd",
+    title: "Vintertåke",
   },
   {
     title: "TG22 tema-teaser",
