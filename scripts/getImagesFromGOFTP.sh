@@ -18,7 +18,7 @@ cat ftp-files | \
   grep '/MSPaint/\|Rendered\|capture_the\|themed\|Themed\|Graphics\|Photo\|freestyle\|SpiritOfTheGathering\|FreestyleGraphics\|Casemod\|Pimpmy\|Cosplay\|Freestyle\|Colouring' | \
   # No work in progress files
   grep -v 'WIP' | \
-  grep -v '/Folders/' | \
+  grep -vi '/folders/' | \
   grep -v '/Minecraft/' | \
   grep -v '/Press/' | \
   grep -v '/Originals/' | \
