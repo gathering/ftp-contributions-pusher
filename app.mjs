@@ -1,113 +1,226 @@
 #!/usr/bin/env node
 
-import { images } from "./images.mjs";
-import fetch from "node-fetch";
 import dotenv from "dotenv";
-import fs from "fs";
-import readline from "readline";
-const appendFile = fs.promises.appendFile;
+import winston from "winston";
+import storage from "node-persist";
+import { images as rawImages } from "./images.mjs";
+import { logImagePush, getStateFromPushLog } from "./utils/subscription.mjs";
+import { withImageId, matchIdOrUrlWithImages } from "./utils/image-ids.mjs";
+import { createPublisher } from "./utils/publish.mjs";
+import { createDiscordClient } from "./utils/discord.mjs";
+import { sleep } from "./utils/sleep.mjs";
 dotenv.config();
 
-const PUSH_INTERVAL = process.env.PUSH_INTERVAL;
-const HOOK_URL = process.env.HOOK_URL;
+const STARTUP_DELAY = 10 * 1000;
+const LOG_PATH = process.env.LOG_PATH || "./logs";
+const BOT_TOKEN = process.env.BOT_TOKEN;
+const LOG_LEVEL = process.env.LOG_LEVEL || "info";
 
-let pushedImages = [];
-let pushedCount = 0;
+const logger = winston.createLogger({
+  level: LOG_LEVEL,
+  format: winston.format.json(),
+  transports: [
+    new winston.transports.File({
+      filename: `${LOG_PATH}/app.log`,
+    }),
+  ],
+});
+if (process.env.NODE_ENV !== "production") {
+  logger.add(
+    new winston.transports.Console({
+      format: winston.format.combine(
+        winston.format.timestamp(),
+        winston.format.simple(),
+        winston.format.printf((i) =>
+          winston.format
+            .colorize()
+            .colorize(
+              i.level,
+              `[${i.timestamp}] [${i.level}] ${[i.message, [i.type, i.id].filter(Boolean).join("-")]
+                .filter(Boolean)
+                .join(" - ")}`
+            )
+        )
+      ),
+    })
+  );
+}
+console.log = (...args) => logger.info.call(logger, ...args);
+console.info = (...args) => logger.info.call(logger, ...args);
+console.warn = (...args) => logger.warn.call(logger, ...args);
+console.error = (...args) => logger.error.call(logger, ...args);
+console.debug = (...args) => logger.debug.call(logger, ...args);
 
-async function readPushedImages() {
-  return new Promise(async (resolve, reject) => {
-    const fileStream = fs.createReadStream("./pushed.log");
-    const rl = readline.createInterface({
-      input: fileStream,
-    });
+await storage.init({
+  dir: "storage/",
+  stringify: JSON.stringify,
+  parse: JSON.parse,
+  encoding: "utf8",
+});
 
-    for await (const line of rl) {
-      const id = parseInt(line.split(" | ")?.[0] || "", 10);
+const images = rawImages.map(withImageId);
+const subscriptions = (await storage.getItem("subscriptions")) || [];
 
-      if (id) {
-        pushedImages.push(id);
-      }
+let publisher;
+
+function maintainImageQueue(subscription) {
+  if (subscription.empty) {
+    return subscription;
+  }
+
+  if (subscription.imageQueue.length) {
+    return subscription;
+  }
+
+  const ids = images.map((i) => i.id);
+  subscription.imageQueue = [];
+  let i = ids.length - 1;
+
+  for (i; i > 0; i--) {
+    const j = Math.floor(Math.random() * i);
+    const temp = ids[i];
+    ids[i] = ids[j];
+    ids[j] = temp;
+  }
+
+  ids.some((id) => {
+    if (!subscription.pushedImages.includes(id)) {
+      subscription.imageQueue.push(id);
+    }
+    if (subscription.imageQueue.length >= subscription.bufferSize) {
+      return true;
     }
 
-    resolve();
+    return false;
   });
+
+  if (subscription.imageQueue.length < subscription.bufferSize) {
+    subscription.empty = true;
+  }
+
+  return subscription;
 }
 
-function publishImageInformation(image) {
-  fetch(HOOK_URL, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      embeds: [
-        {
-          title: image.title,
-          author: { name: image.creator },
-          image: {
-            url: image.url,
-          },
-          footer: {
-            text: `Check out this masterwork of a competition entry, and others like it at ${image.source}\n\n (This message was automatically generated based on ftp path and filename)`,
-          },
-        },
-      ],
-    }),
-  });
-}
+async function subscriptionMain(subscription, i) {
+  if (Date.now() < subscription.interval + subscription.lastPush) {
+    console.debug({
+      message: "Interval not passed, skipping",
+      type: subscription.type,
+      id: subscription.channel || subscription.hookId,
+      lastPush: subscription.lastPush,
+    });
+    return subscription;
+  }
 
-async function sleep(ms) {
-  return new Promise((resolve, _reject) => {
-    setTimeout(() => {
-      resolve();
-    }, ms);
+  let newSub = maintainImageQueue(subscription);
+
+  const imageId = newSub.imageQueue.shift();
+  const image = images.find((image) => image.id === imageId);
+
+  if (!image && newSub.empty) {
+    console.warn({
+      message: "Subscription is not empty, skipping",
+      type: newSub.type,
+      id: newSub.channel || newSub.hookId,
+    });
+    return newSub;
+  }
+
+  console.log({
+    message: "Pushing image",
+    type: subscription.type,
+    id: subscription.channel || subscription.hookId,
+    imageId: image.id,
+    imageUrl: image.url,
   });
+
+  if (image && image.creator && image.url && image.title && image.source) {
+    newSub.pushedImages.push(image.id);
+    newSub.lastPush = Date.now();
+    await logImagePush(
+      `${LOG_PATH}/subscription_${newSub.type}_${newSub.channel || newSub.hookId}.log`,
+      image
+    );
+    publisher.publishImage({
+      subscription: newSub,
+      image,
+    });
+  }
+
+  return newSub;
 }
 
 async function main() {
-  let candidate;
-  do {
-    candidate = Math.floor(Math.random() * images.length);
-  } while (pushedImages.includes(candidate));
-
-  const image = images[candidate];
-
-  console.log(`Pushing image to discord webook: ${image?.url || image?.title}`);
-  if (image && image.creator && image.url && image.title && image.source) {
-    pushedImages.push(candidate);
-    await appendFile(
-      "./pushed.log",
-      Buffer.from(`${candidate} | ${image.url}\n`)
-    );
-    publishImageInformation(image);
-    pushedCount++;
-  }
-
-  console.log(
-    `Waiting for ${
-      PUSH_INTERVAL / 1000
-    } seconds before pushing next image. We have pushed ${pushedCount} images in total.\n`
+  console.debug("Checking subscription statuses");
+  await Promise.all(
+    subscriptions.map(async (sub, i) => {
+      subscriptions[i] = await subscriptionMain(sub, i);
+    })
   );
-  await sleep(PUSH_INTERVAL);
+  console.debug("Done checking subscription statuses");
+
+  await storage.setItem("subscriptions", subscriptions);
+
+  await sleep(10 * 1000);
   main();
 }
 
-if (!PUSH_INTERVAL || !HOOK_URL) {
-  console.error(
-    "Both push interval and hook url needs to be configured, check your .env file"
-  );
-} else {
-  console.log("Loading list of previously pushed images");
-  await readPushedImages();
-  pushedCount = pushedImages.length;
-  console.log(`Found ${pushedCount} previously pushed images\n`);
+async function init() {
+  let discordClient;
+  console.debug("Connecting to discord");
+  discordClient = await createDiscordClient({
+    token: BOT_TOKEN,
+  })
+    .then((e) => {
+      console.log("Connected to discord");
+      return e;
+    })
+    .catch((e) => {
+      console.warn("Unable to connect to discord, webhooks will still work");
+    });
 
-  console.log(
-    `Will push first image in 20 seconds.\nImages will be pushed every ${
-      PUSH_INTERVAL / 1000
-    } seconds.\nLast chance to abort!\n`
+  publisher = createPublisher({ discordClient });
+
+  await Promise.all(
+    // Combine status from storage with information from logs.
+    // This is mainly useful to make sure we pick up what images have actually
+    // been pushed in cases where information is missing from normal storage.
+    subscriptions.map(async (sub, i) => {
+      // Urls are useful if ids change, since they are essentially GUIDs
+      const { ids, urls, lastPush } = await getStateFromPushLog(
+        `${LOG_PATH}/subscription_${sub.type}_${sub.channel || sub.hookId}.log`
+      );
+      subscriptions[i] = {
+        ...sub,
+        pushedImages: Array.from(
+          new Set([
+            ...sub.pushedImages,
+            ...matchIdOrUrlWithImages([...ids, ...urls], images).map((i) => i.id),
+          ])
+        ),
+        lastPush: Math.max(lastPush, sub.lastPush),
+      };
+
+      console.log({
+        message: "Loaded subscription from state and log",
+        type: sub.type,
+        id: sub.channel || sub.hookId,
+        previouslyPushedImages: subscriptions[i].pushedImages.length,
+      });
+    })
   );
-  await sleep(20 * 1000);
+
+  // Store subscriptions after update from logfiles
+  await storage.setItem("subscriptions", subscriptions);
+
+  console.debug(
+    `Will look for image to push in ${
+      STARTUP_DELAY / 1000
+    } seconds.\nImages will be pushed every X seconds based on the individual subscription.\nLast chance to abort!`
+  );
+  await sleep(STARTUP_DELAY);
 
   main();
 }
+
+init();

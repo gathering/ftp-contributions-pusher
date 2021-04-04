@@ -5,3 +5,5 @@ pushed.log
 ftp-files
 ftp-image-urls
 images.json
+storage/*
+**/*.log

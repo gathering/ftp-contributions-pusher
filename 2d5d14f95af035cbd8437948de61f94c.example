@@ -1,0 +1,4 @@
+{"key":"subscriptions","value":[
+{"type":"discord-channel","channel":"<discord channel id>","pushedImages":[],"imageQueue":[],"empty":false,"interval":<int ms between each time image should be pushed>,"lastPush":0,"bufferSize":10},
+{"type":"discord-webhook","hookId":"<discord webhook id (mainly used for logs)>","hookUrl":"<discord webhook url>","pushedImages":[],"imageQueue":[],"empty":false,"interval":60000,"lastPush":0,"bufferSize":10}
+]}
