@@ -125,7 +125,7 @@ async function subscriptionMain(subscription, i) {
 
   if (!image && newSub.empty) {
     console.warn({
-      message: "Subscription is not empty, skipping",
+      message: "Subscription is empty, skipping",
       type: newSub.type,
       id: newSub.channel || newSub.hookId,
     });
