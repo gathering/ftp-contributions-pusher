@@ -3,6 +3,7 @@
 import dotenv from "dotenv";
 import winston from "winston";
 import storage from "node-persist";
+import p from "process";
 import { images as rawImages } from "./images.mjs";
 import { logImagePush, getStateFromPushLog } from "./utils/subscription.mjs";
 import { withImageId, matchIdOrUrlWithImages } from "./utils/image-ids.mjs";
@@ -50,6 +51,11 @@ console.info = (...args) => logger.info.call(logger, ...args);
 console.warn = (...args) => logger.warn.call(logger, ...args);
 console.error = (...args) => logger.error.call(logger, ...args);
 console.debug = (...args) => logger.debug.call(logger, ...args);
+
+p.on("SIGINT", () => {
+  console.log("Closing");
+  p.exit(0);
+});
 
 await storage.init({
   dir: "storage/",
