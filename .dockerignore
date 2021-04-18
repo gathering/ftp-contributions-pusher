@@ -1,0 +1,8 @@
+node_modules
+storage
+**/*.log
+.env
+.git
+.editorconfig
+**/*.md
+scripts
