@@ -1,0 +1,18 @@
+# Simple docker-compose example for use in production
+version: "3.5"
+services:
+
+  app:
+    restart: unless-stopped
+    # Use image from github packages
+    image: docker.pkg.github.com/gathering/ftp-contributions-pusher/ftp-contributions-pusher:latest
+    # Make sure any relevant environment variables are present
+    environment:
+      - LOG_PATH
+      - BOT_TOKEN
+      - NODE_ENV
+      - LOG_LEVEL
+    # Since container itself should be "stateless" we mount local state and log folders
+    volumes:
+      - ./log:/usr/src/app/log
+      - ./storage:/usr/src/app/storage
